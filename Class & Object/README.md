@@ -37,9 +37,9 @@
  
   <samp>behavior (perilaku) seperti memutar musik, mengirim pesan, mengambil gambar.</samp>
  
-- <samp>Instance adalah sebagai wujud dari class yang ditampung melalui variaberl.</samp>
+- <samp>Instance adalah sebagai wujud dari class yang ditampung melalui variabel.</samp>
 
- - <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Class%20%26%20Object/src/com/practice/Main.java) in repositories suardi26/Java-OOP/Class & Object/src/com/practice/.</samp>
+ - <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Class%20%26%20Object/src/com/practice/Main.java) di repositori suardi26/Java-OOP/Class & Object/src/com/practice/.</samp>
 
 - <samp>Semoga harimu menyenangkan.</samp>
    
