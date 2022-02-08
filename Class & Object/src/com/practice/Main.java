@@ -10,13 +10,6 @@ package com.practice;
 // smartphone yang memiliki atribut seperti merk, tipe, warna, dll. Serta behavior (perilaku) seperti memutar musik, mengirim pesan,
 // mengambil gambar.
 
-// Membuat Class.
-class Product {
-    int IdProduct;
-    String productName;
-    String category;
-}
-
 public class Main{
 
     public static void main(String[] args){
@@ -26,11 +19,11 @@ public class Main{
 
         // Mengkases atribut dari object 'product' yang merupakan wujud dari class Product sehingga atribut pada class Product seperti variabel
         // dapat diakses. 
-        product.IdProduct = 1001;
+        product.idProduct = 1001;
         product.productName = "Noodles";
         product.category = "Food";
 
-        System.out.println("ID Product : "+product.IdProduct);
+        System.out.println("ID Product : "+product.idProduct);
         System.out.printf("Product Name : %s.\n",product.productName);
         System.out.printf("Category : %s.\n",product.category );
         System.out.println("========================");
@@ -40,10 +33,10 @@ public class Main{
 
         // Mengkases atribut dari object 'product' yang merupakan wujud dari class Product sehingga atribut pada class Product seperti variabel
         // dapat diakses. 
-        product1.IdProduct = 1002;
+        product1.idProduct = 1002;
         product1.productName = "Sprite";
         product1.category = "Drink";
-        System.out.println("ID Product : "+product1.IdProduct);
+        System.out.println("ID Product : "+product1.idProduct);
         System.out.printf("Product Name : %s.\n",product1.productName);
         System.out.printf("Category : %s.\n",product1.category );
 
