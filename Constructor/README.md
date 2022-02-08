@@ -16,6 +16,7 @@
     String category;
     
       public Product(int id, String name, String cat){
+      
           idProduct = id;
           
           productName = name;
