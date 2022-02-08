@@ -16,7 +16,7 @@
   
 - <samp>Instance is a form of class that is accommodated through variables.</samp>
 
-- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Class%20%26%20Object/src/com/practice/Main.javaa) in repositories suardi26/Java-OOP/Class & Object/src/com/practice/.</samp>
+- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Class%20%26%20Object/src/com/practice/Main.java) in repositories suardi26/Java-OOP/Class & Object/src/com/practice/.</samp>
 
 - <samp>Have a nice day.</samp>
 
@@ -39,7 +39,7 @@
  
 - <samp>Instance adalah sebagai wujud dari class yang ditampung melalui variaberl.</samp>
 
- - <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Class%20%26%20Object/src/com/practice/Main.javaa) in repositories suardi26/Java-OOP/Class & Object/src/com/practice/.</samp>
+ - <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Class%20%26%20Object/src/com/practice/Main.java) in repositories suardi26/Java-OOP/Class & Object/src/com/practice/.</samp>
 
 - <samp>Semoga harimu menyenangkan.</samp>
    
