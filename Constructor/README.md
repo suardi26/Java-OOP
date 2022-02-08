@@ -46,6 +46,7 @@
     String kategori;
     
       public Product(int id, String nama, String kat){
+      
           idProduk = id;
           
           namaProduk = nam;
