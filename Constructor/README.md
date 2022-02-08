@@ -24,7 +24,8 @@
       }
     }
   ```
-- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Constructor/src/com/practice/Main.java) in repositories suardi26/Java-OOP/Class & Object/src/com/practice/.</samp>
+- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Constructor/src/com/practice/Main.java) in repositories suardi26/Java-OOP/
+Constructor/src/com/practice/.</samp>
 
 - <samp>Have a nice day.</samp>
 
@@ -56,6 +57,7 @@
     }
   ```
 
- - <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Constructor/src/com/practice/Main.java) di repositori suardi26/Java-OOP/Class & Object/src/com/practice/.</samp>
+ - <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Constructor/src/com/practice/Main.java) di repositori suardi26/Java-OOP/
+Constructor/src/com/practice/.</samp>
 
 - <samp>Semoga harimu menyenangkan.</samp>
