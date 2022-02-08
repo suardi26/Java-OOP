@@ -25,8 +25,7 @@
       }
     }
   ```
-- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Constructor/src/com/practice/Main.java) in repositories suardi26/Java-OOP/
-Constructor/src/com/practice/.</samp>
+- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Constructor/src/com/practice/Main.java) in repositories suardi26/Java-OOP/Constructor/src/com/practice/.</samp>
 
 - <samp>Have a nice day.</samp>
 
@@ -39,7 +38,7 @@ Constructor/src/com/practice/.</samp>
 - <samp>Contoh :</samp>
 
   ```java
-    public class Product {
+    public class Produk {
     
     int idProduk;
     
@@ -47,18 +46,17 @@ Constructor/src/com/practice/.</samp>
     
     String kategori;
     
-      public Product(int id, String nama, String kat){
+      public Produk(int id, String nama, String kat){
       
           idProduk = id;
           
-          namaProduk = nam;
+          namaProduk = nama;
           
-          kategori = cat;
+          kategori = kat;
       }
     }
   ```
 
- - <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Constructor/src/com/practice/Main.java) di repositori suardi26/Java-OOP/
-Constructor/src/com/practice/.</samp>
+ - <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Constructor/src/com/practice/Main.java) di repositori suardi26/Java-OOP/Constructor/src/com/practice/.</samp>
 
 - <samp>Semoga harimu menyenangkan.</samp>
