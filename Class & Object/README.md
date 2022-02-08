@@ -15,10 +15,31 @@
   <samp>such as playing music, sending messages, taking pictures.</samp>
   
 - <samp>Instance is a form of class that is accommodated through variables.</samp>
+
+- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Class%20%26%20Object/src/com/practice/Main.javaa) in repositories suardi26/Java-OOP/Class & Object/src/com/practice/.</samp>
+
+- <samp>Have a nice day.</samp>
+
       
  ---
   
- 
-   
+- <samp>Class adalah wadah untuk menampung fungsi/method dan variabel (atribut/properti).</samp>  
 
+- <samp>Penulisan nama class biasanya menggunakan format PascalCase. contohnya : class ProductList,</samp>  
+ 
+  <samp>class Product, Class Company, class FoodProduct.</samp>
+  
+- <samp>Object adalah sebuah variabel yang merupakan instance/wujud dari class.</samp> 
+
+- <samp>class berisi definisi variabel dan fungsi yang menggambarkan sebuah object. Sama seperti benda di dunia nyata</samp> 
+ 
+  <samp>yang merupakan object misalnya smartphone yang memiliki atribut seperti merk, tipe, warna, dll. Serta </samp>
+ 
+  <samp>behavior (perilaku) seperti memutar musik, mengirim pesan, mengambil gambar.</samp>
+ 
+- <samp>Instance adalah sebagai wujud dari class yang ditampung melalui variaberl.</samp>
+
+ - <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Class%20%26%20Object/src/com/practice/Main.javaa) in repositories suardi26/Java-OOP/Class & Object/src/com/practice/.</samp>
+
+- <samp>Semoga harimu menyenangkan.</samp>
    
