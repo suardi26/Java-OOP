@@ -17,7 +17,8 @@
 - <samp>Instance is a form of class that is accommodated through variables.</samp>
       
  ---
-   
+  
+ 
    
 
    
