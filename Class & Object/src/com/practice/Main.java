@@ -39,6 +39,14 @@ public class Main{
         System.out.println("ID Product : "+product1.idProduct);
         System.out.printf("Product Name : %s.\n",product1.productName);
         System.out.printf("Category : %s.\n",product1.category );
+        System.out.println("========================");
+        
+        // Mengakses fungsi/method dari object 'product' yang merupakan wujud daru class Product sehingga method pada class Product dapat diakses.
+        
+        // memanggil fungsi/method yang mengembalikan return value pada class Product.
+        System.out.println("ID Product : "+product1.getIdProduct());
 
+        // memanggil fungsi/method yang tidak mengembalikan return value pada class Product.
+        product1.printData();
     }
 }

@@ -2,6 +2,8 @@ package com.practice;
 
 // Class dengan constructor
 public class Product {
+
+    // variabel (atribut/properti)
     int idProduct;
     String productName;
     String category;
