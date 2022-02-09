@@ -66,7 +66,7 @@
  
   <samp>dan informasi (argument) telah diisi maka argument tersebut nantinya akan di tampung  pada parameter</samp> 
   
-  <samp>sesuai dengan tipe data ditentukan.</samp> 
+  <samp>sesuai dengan tipe data yang ditentukan.</samp> 
   
 - <samp>Argumen adalah sebutan untuk nilai inputan fungsi pada saat fungsi itu dipanggil.</samp>
 
