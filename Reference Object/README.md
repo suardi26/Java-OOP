@@ -6,8 +6,7 @@
   
   <samp>will be stored in the memory as well.</samp>
 
-- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Reference%20Object/src/com/practice/Main.java) in repositories suardi26/Java-OOP/
-Reference Object/src/com/practice/.</samp>
+- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Reference%20Object/src/com/practice/Main.java) in repositories suardi26/Java-OOP/Reference Object/src/com/practice/.</samp>
 
 - <samp>Have a nice day.</samp>
 
