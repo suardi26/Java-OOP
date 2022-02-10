@@ -2,9 +2,9 @@
 
 - <samp>Same as creating other variables when assigning a value to a variable and when the program is run, the value</samp>
   
-- <samp>will be stored in the memory, just as when creating a new object (instance) the object</samp>
+  <samp>will be stored in the memory, just as when creating a new object (instance) the object</samp>
   
-- <samp>will be stored in the memory as well.</samp>
+  <samp>will be stored in the memory as well.</samp>
 
 - <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Reference%20Object/src/com/practice/Main.java) in repositories suardi26/Java-OOP/
 Reference Object/src/com/practice/.</samp>
