@@ -1,4 +1,4 @@
-## Reference Object
+## Public & Private
 
 - <samp>Access modifier is an "access rights" given to a class/method/variable in order to maintain the integrity of the data,</samp> 
   
