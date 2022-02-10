@@ -13,7 +13,8 @@ public class Main {
         
         // Assignment Object
         // Meskipun membuat variabel object baru namun ketika mengisi variabel object 'product2' dengan variabel object
-        // 'product1', hal ini menyababkan tidak terdapat address memory baru pada variabel object 'product2' melainkan 
+        // 'product1' maka yang terjadi adalah object 'product2' tidak menduplikasi object 'product1' namun mengakses   
+        // object 'product1', hal ini menyababkan tidak terdapat address memory baru pada variabel object 'product2' melainkan 
         // mengakses address memory dari variabel object 'pruduct1' sehingga address variabel object 'product2' memiliki
         // address yang sama dengan address variabel object 'product1'.
         
@@ -26,7 +27,7 @@ public class Main {
         System.out.println("= = = = = = = = = = = = = = = = = = = = =");
 
         // Karena address variabel object 'product2' memiliki address yang sama dengan address variabel object 'product1'.
-        // Sehingga ketika salah satu dari object 'product1' atau 'product2' diupdate atrributnya maka kedua attribut  
+        // Sehingga ketika salah satu dari object 'product1' atau 'product2' diupdate atrributnya, maka attribut  
         // pada kedua object tersebut akan berubah.
         product2.productName = "Lux"; 
         System.out.println("Ketika atribut 'prductName' pada Object 'product2' diUpdate, maka atribut 'prductName' "
@@ -38,7 +39,7 @@ public class Main {
         product2.printData();
         System.out.println("= = = = = = = = = = = = = = = = = = = = =");
 
-       // Memanggil method dengan argument Object pada Class 'Product'.
+       // Memanggil method dengan argument Object 'product2' pada Class 'Product'.
         function("'product2'",product2);
         System.out.println("= = = = = = = = = = = = = = = = = = = = =");
         System.out.println("Object 'product1' : ");
