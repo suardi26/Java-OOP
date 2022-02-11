@@ -18,3 +18,30 @@
   
     - <samp>Increased security of data.</samp>
     
+- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Encapsulasi%20(Setter%20And%20Getter)/src/com/practice/Main.java) in repositories suardi26/Java-OOP/Encapsulasi (Setter And Getter)/src/com/practice/.</samp>
+
+- <samp>Have a nice day.</samp>
+  
+---
+  
+- <samp>Enkapsulasi (Encapsulation) adalah cara untuk mencegah data untuk diakses dari class lain secara langsung, dimana data tersebut</samp> 
+  
+  <samp>dibungkus dengan modifier private sehingga data hanya dapat di akses pada classnya. Dan untuk mengisi dan mengambil data tersebut</samp> 
+  
+  <samp>dari class lain diperlukan method Setter untuk mengisi data dan Getter untuk mengambil data.</samp>
+  
+- <samp>Enkapsulasi perlu dilakukan karena :</samp>
+  
+  - Supaya lebih muda dalam mengontrol atribut dan method suatu class.
+  
+  - Atribut suatu class misalnya variable dapat dibuat read-only (digunakan untuk membaca/mengambil data dengan method Getter), 
+  
+    atau write only (digunakan untuk menulis/mengisi data dengan method Setter).
+  
+  - Fleksibel (Programmer dapat mengganti sebagian dari kode tanpa harus takut berdampak pada kode yang lain).
+  
+  - Untuk meningkatkan Keamanan data.
+
+- <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Encapsulasi%20(Setter%20And%20Getter)/src/com/practice/Main.java) di repositori suardi26/Java-OOP/Encapsulasi (Setter And Getter)/src/com/practice/.</samp>
+
+- <samp>Semoga harimu menyenangkan.</samp>
