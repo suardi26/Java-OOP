@@ -16,5 +16,5 @@
       
     - <samp>Flexibility (Programmers can change parts of the code without fear of impacting the rest of the code). <samp>
   
-    - <samp>Increased security of data</samp>
+    - <samp>Increased security of data.</samp>
     
