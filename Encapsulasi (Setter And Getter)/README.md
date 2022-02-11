@@ -32,15 +32,15 @@
   
 - <samp>Enkapsulasi perlu dilakukan karena :</samp>
   
-  - Supaya lebih muda dalam mengontrol atribut dan method suatu class.
+  - <samp>Supaya lebih muda dalam mengontrol atribut dan method suatu class.</samp>
   
-  - Atribut suatu class misalnya variable dapat dibuat read-only (digunakan untuk membaca/mengambil data dengan method Getter), 
+  - <samp>Atribut suatu class misalnya variable dapat dibuat read-only (digunakan untuk membaca/mengambil data dengan method Getter),</samp> 
   
-    atau write only (digunakan untuk menulis/mengisi data dengan method Setter).
+    <samp>atau write only (digunakan untuk menulis/mengisi data dengan method Setter).</samp>
   
-  - Fleksibel (Programmer dapat mengganti sebagian dari kode tanpa harus takut berdampak pada kode yang lain).
+  - <samp>Fleksibel (Programmer dapat mengganti sebagian dari kode tanpa harus takut berdampak pada kode yang lain).</samp>
   
-  - Untuk meningkatkan Keamanan data.
+  - <samp>Untuk meningkatkan Keamanan data.</samp>
 
 - <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Encapsulasi%20(Setter%20And%20Getter)/src/com/practice/Main.java) di repositori suardi26/Java-OOP/Encapsulasi (Setter And Getter)/src/com/practice/.</samp>
 
