@@ -22,4 +22,18 @@
   
   <samp>to be created. For example, in the student class, all students have the same college name,</samp> 
     
-  <samp>so they can create a static variable with the name 'Name of College'.</samp>
+  <samp>so We can create a static variable with the name 'nameOfCollege'.</samp>
+
+- <samp>Like static variables, static methods can also be accessed without creating an object of a class. to create a static method</samp>  
+  
+  <samp>simply by adding the keyword 'static'. An example of a static method that is often used is 'main()'.</samp>
+  
+- <samp>Methods declared as static have some rules such as :</samp>
+  
+  - <samp>The 'static' method can only directly access variables or other static methods and non-static variables and methods</samp> 
+
+    <samp>can be accessed using object creation (instance).</samp>
+
+  - <samp>Static variables or methods cannot be combined with 'this' or 'super' keywords.</samp>
+  
+---
