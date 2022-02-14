@@ -48,7 +48,7 @@
   
   <samp>yang dibuat dari suatu class , variabel static hanya memiliki satu duplikat nilai (static) pada setiap</samp>
   
-  <samp>classnya dan berlaku untuk setiap object yang dibuat dari suatu calss. Sehingga meskipun memiliki beberapa</samp>
+  <samp>classnya dan berlaku untuk setiap object yang dibuat dari suatu class. Sehingga meskipun memiliki beberapa</samp>
   
   <samp>object namun nilai variabel static akan tetap (static) tidak dapat berubah-ubah pada setiap object.</samp>
   
