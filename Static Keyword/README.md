@@ -54,6 +54,12 @@
   
   <samp>object yang dibuat dari suatu class , variabel static hanya memiliki satu duplikat (static) nilai pada setiap classnya</samp> 
   
-  <samp>dan berlaku untuk setiap object yang dibuat dari suatu calss. sehingga meskipun memiliki beberapa object namun nilai variabel static</samp> 
+  <samp>dan berlaku untuk setiap object yang dibuat dari suatu calss. sehingga meskipun memiliki beberapa object namun</samp> 
   
-  <samp>akan tetap (static) tidak dapat berubah-ubah pada setiap object.</samp>
+  <samp>nilai variabel static akan tetap (static) tidak dapat berubah-ubah pada setiap object.</samp>
+  
+- <samp>Dikarenakan suatu nilai variabel static bernilai tetap, maka variabel static dapat digunakan untuk atribut yang umum</samp> 
+  
+  <samp>pada setiap object yang akan dibuat. misalnya pada class mahasiswa, seluruh mahasiswa memiliki nama perguruan tinggi yang sama,</samp> 
+  
+  <samp>maka dapat membuat variabel static dengan nama 'namaPerguruanTinggi'.</samp>
