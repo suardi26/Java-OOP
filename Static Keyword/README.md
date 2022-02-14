@@ -50,11 +50,11 @@
   
   <samp>constructor, dan block lainnya, akan tetapi  variabel static dideklarasikan menggunakan keyword 'static'.</samp> 
   
-  <samp>tidak seperti variabel instance yang memiliki nilai duplikatnya masing- masing (dinamic) di setiap</samp> 
+  <samp>Tidak seperti variabel instance yang memiliki nilai duplikatnya masing- masing (dinamic) di setiap</samp> 
   
   <samp>object yang dibuat dari suatu class , variabel static hanya memiliki satu duplikat (static) nilai pada setiap classnya</samp> 
   
-  <samp>dan berlaku untuk setiap object yang dibuat dari suatu calss. sehingga meskipun memiliki beberapa object namun</samp> 
+  <samp>dan berlaku untuk setiap object yang dibuat dari suatu class. sehingga meskipun memiliki beberapa object namun</samp> 
   
   <samp>nilai variabel static akan tetap (static) tidak dapat berubah-ubah pada setiap object.</samp>
   
@@ -63,3 +63,15 @@
   <samp>pada setiap object yang akan dibuat. misalnya pada class mahasiswa, seluruh mahasiswa memiliki nama perguruan tinggi yang sama,</samp> 
   
   <samp>maka dapat membuat variabel static dengan nama 'namaPerguruanTinggi'.</samp>
+  
+- <samp>Sama halnya dengan variabel static, method static juga dapat diakses tanpa membuat sebuah object dari sebuah class.</samp> 
+  
+  <samp>untuk membuat method static cukup dengan menambahkan keyword 'static'. contoh method static yang sering digunakan adalah 'main()'.</samp> 
+  
+- <samp>Method yang dideklarasikan sebagai static memiliki beberapa aturan seperti :<samp>
+  
+    - <samp>Method 'static' hanya dapat mengakses secara langsung variabel atau method static lainnya dan untuk variabel dan method non static</samp>
+  
+      <samp>dapat diakses menggunakan pembuatan object (instance).</samp>
+  
+    - <samp>Variabel atau method static tidak dapat digabungkan dengan keyword 'this' atau 'super'.<samp>
