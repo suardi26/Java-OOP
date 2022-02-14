@@ -43,3 +43,17 @@
   <samp>bukan variabel instance dan method instance sehingga tanpa instance object, variabel dan method static</samp> 
     
   <samp>dapat di panggil dengan bantuan nama classnya.</samp>
+  
+- <samp>Keyword 'static' dapat di gunakan pada variabel, method, class bersarang atau pun block lainnya.</samp>
+  
+- <samp>variabel static/variabel class adalah variabel yang dideklarasikan di dalam suatu class dan di luar dari method,</samp> 
+  
+  <samp>constructor, dan block lainnya, akan tetapi  variabel static dideklarasikan menggunakan keyword 'static'.</samp> 
+  
+  <samp>tidak seperti variabel instance yang memiliki nilai duplikatnya masing- masing (dinamic) di setiap</samp> 
+  
+  <samp>object yang dibuat dari suatu class , variabel static hanya memiliki satu duplikat (static) nilai pada setiap classnya</samp> 
+  
+  <samp>dan berlaku untuk setiap object yang dibuat dari suatu calss. sehingga meskipun memiliki beberapa object namun nilai variabel static</samp> 
+  
+  <samp>akan tetap (static) tidak dapat berubah-ubah pada setiap object.</samp>
