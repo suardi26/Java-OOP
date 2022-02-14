@@ -36,6 +36,10 @@
 
   - <samp>Static variables or methods cannot be combined with 'this' or 'super' keywords.</samp>
   
+- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Static%20Keyword/src/com/practice/Main.java) in repositories suardi26/Java-OOP/Static Keyword/src/com/practice/.</samp>
+
+- <samp>Have a nice day.</samp>
+  
 ---
   
 - <samp>Dengan penambahan keyword 'static' pada variabel dan method akan meciptakan variabel class dan method class,</samp> 
@@ -75,3 +79,7 @@
       <samp>dan method non static dapat diakses menggunakan pembuatan object (instance).</samp>
   
     - <samp>Variabel atau method static tidak dapat digabungkan dengan keyword 'this' atau 'super'.<samp>
+  
+- <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Static%20Keyword/src/com/practice/Main.java) di repositori suardi26/Java-OOP/Static Keyword/src/com/practice/.</samp>
+
+- <samp>Semoga harimu menyenangkan.</samp>
