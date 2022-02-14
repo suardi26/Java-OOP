@@ -37,3 +37,7 @@
   - <samp>Static variables or methods cannot be combined with 'this' or 'super' keywords.</samp>
   
 ---
+  
+- <samp>Dengan penambahan keyword 'static' pada variabel dan method akan meciptakan variabel class dan method class, bukan variabel instance</samp> 
+  
+  <samp>dan method instance sehingga tanpa instance object, variabel dan method static dapat di panggil dengan bantuan nama classnya.</samp>
