@@ -70,8 +70,8 @@
   
 - <samp>Method yang dideklarasikan sebagai static memiliki beberapa aturan seperti :<samp>
   
-    - <samp>Method 'static' hanya dapat mengakses secara langsung variabel atau method static lainnya dan untuk variabel dan method non static</samp>
+    - <samp>Method 'static' hanya dapat mengakses secara langsung variabel atau method static lainnya dan untuk variabel</samp>
   
-      <samp>dapat diakses menggunakan pembuatan object (instance).</samp>
+      <samp>dan method non static dapat diakses menggunakan pembuatan object (instance).</samp>
   
     - <samp>Variabel atau method static tidak dapat digabungkan dengan keyword 'this' atau 'super'.<samp>
