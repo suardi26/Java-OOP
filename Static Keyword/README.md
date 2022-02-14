@@ -38,6 +38,8 @@
   
 ---
   
-- <samp>Dengan penambahan keyword 'static' pada variabel dan method akan meciptakan variabel class dan method class, bukan variabel instance</samp> 
+- <samp>Dengan penambahan keyword 'static' pada variabel dan method akan meciptakan variabel class dan method class,</samp> 
   
-  <samp>dan method instance sehingga tanpa instance object, variabel dan method static dapat di panggil dengan bantuan nama classnya.</samp>
+  <samp>bukan variabel instance dan method instance sehingga tanpa instance object, variabel dan method static</samp> 
+    
+  <samp>dapat di panggil dengan bantuan nama classnya.</samp>
