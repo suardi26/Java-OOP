@@ -40,7 +40,7 @@ public class Student {
         System.out.println("Name\t: "+this.name);
         System.out.println("NIM\t: "+this.NIM);
 
-        // access static veiable
+        // access static variable
         System.out.println("Collage Name : "+Student.collageName);
     }
     

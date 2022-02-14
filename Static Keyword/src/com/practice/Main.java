@@ -10,7 +10,7 @@ public class Main {
           bukan variabel instance dan method instance sehingga tanpa instance object, variabel dan method static dapat
           di panggil dengan bantuan nama classnya.
           
-        - Keyword 'static' dapat di gunakan pada variabel, method, blok, dan class bersarang.
+        - Keyword 'static' dapat di gunakan pada variabel, method, class bersarang atau pun block lainnya.
         
         - variabel static/variabel class adalah variabel yang dideklarasikan di dalam suatu class dan di luar dari method, 
           constructor, dan block lainnya, akan tetapi  variabel static dideklarasikan menggunakan keyword 'static'. tidak seperti variabel 
@@ -40,21 +40,8 @@ public class Main {
           dan untuk mengakses variabel dan method non static dari method non static lainnya pada class yang berbeda dapat 
           menggunakan pembuatan object (instance).
           
-          ===
-        - Variabel local adalah sebuah variabel yang didefinisikan didalam sebuah method, Constructor ataupun block lainnya.
-          variabel local akan diciptakan pada saat pemanggilan method, constructor ataupun block lainnya. varibel lokal hanya dapat
-          diakses pada block dimana variabel itu dideklarasikan.
           
-        - variabel instance adalah variabel non static dan dideklarasikan di dalam suatu class dan di luar dari method, constructor, dan block
-          lainnya. variabel instance diciptakan pada saat pembuatan object dari sebuah class. Ketika pembuatan object lebih dari satu object
-          maka setiap object memiliki nilai duplikatnya masing- masing dari variabel instance.
-
-        - variabel static/variabel class adalah variabel yang dideklarasikan di dalam suatu class dan di luar dari method, 
-          constructor, dan block lainnya, akan tetapi  variabel static dideklarasikan menggunakan keyword 'static'. tidak seperti variabel 
-          instance yang memiliki nilai duplikatnya masing- masing (dinamic) di setiap object yang dibuat dari suatu class , variabel static 
-          hanya memiliki satu duplikat (static) nilai pada setiap classnya dan berlaku untuk setiap object yang dibuat dari suatu calss. 
-          sehingga meskipun memiliki beberapa object namun nilai variabel static akan tetap (static) tidak dapat berubah-ubah 
-          pada setiap object.    
+         
           
     */
     public static void main(String[] args) {
@@ -62,6 +49,7 @@ public class Main {
         // memanggil method static, tanpa harus membuat object (Instance) dari class Student.
         Student.setCollageName("University Of Oxford");
 
+        // Membuat object (Instance) dari class Student.
         Student student1 = new Student("Fernando");
         Student student2 = new Student("Marco");
 
