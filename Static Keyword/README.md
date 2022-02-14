@@ -18,6 +18,8 @@
   
   <samp>so that even though it has several objects, the value of the static variable will fixed (static) and cannot change on each object.</samp>
   
-- <samp>Because a static variable value is fixed, then a static variable can be used for attributes that are common to every object to be created.</samp>
+- <samp>Because a static variable value is fixed, then a static variable can be used for attributes that are common to every object</samp>
   
-  <samp>For example, in the student class, all students have the same college name, so they can create a static variable with the name 'Name of College'.</samp>
+  <samp>to be created. For example, in the student class, all students have the same college name,</samp> 
+    
+  <samp>so they can create a static variable with the name 'Name of College'.</samp>
