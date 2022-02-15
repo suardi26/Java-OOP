@@ -27,3 +27,11 @@
 - <samp>Have a nice day.</samp>
 
 ---
+
+- <samp>Access modifier pada class :</samp>
+
+     - <samp>Modifier public : class dapat diakses oleh class lain baik dalam satu package yang sama maupun pada package yang berbeda.</samp>
+
+     - <samp>Modifier default (tanpa modifier) : class hanya dapat diakses oleh class lain dalam package yang sama.</samp>
+
+- <samp>Package adalah sebuah folder yang digunakan untuk mengelompokan class, sehingga lebih memudahkan dalam mengelolah kode program.</samp>
