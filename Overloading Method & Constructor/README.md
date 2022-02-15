@@ -2,7 +2,7 @@
 
 - <samp>Constructor overload is to create multiple Constructors with the same Constructor name,<samp>
 
-  <samp>but different from the data type or number of parameters</samp>
+  <samp>but different from the data type or number of parameters.</samp>
 
 - <samp>Method overload is to create multiple methods with the same method name,</samp>
   
@@ -18,7 +18,7 @@
   
 - <samp>Constructor overload adalah membuat beberapa Constructor dengan nama Constructor yang sama,</samp> 
   
-  <samp>tapi dibedakan dari tipe data atau jumlah parameter</samp>
+  <samp>tapi dibedakan dari tipe data atau jumlah parameter.</samp>
 
 - <samp>Method overload adalah membuat beberapa method dengan nama method yang sama,</samp> 
   
