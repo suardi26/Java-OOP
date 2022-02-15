@@ -10,8 +10,20 @@
 
 - <samp>Packages are divided into two categories :</samp>
 
-  - Built-in Package is the default package in java such as: 'java.util.'
+  - <samp>Built-in Package is the default package in java such as: 'java.util.'</samp>
 
-  - User-defined Package is a package that is created by yourself.
+  - <samp>User-defined Package is a package that is created by yourself.</samp>
 
-- The keyword 'import' in java is used to import classes that are in other packages, so that the attributes and methods of that class can be accessed.
+- <samp>The keyword 'import' in java is used to import classes that are in other packages, so that the attributes and </samp>
+ 
+  <samp>methods of that class can be accessed.</samp>
+  
+- <samp>The keyword 'import static' in java is used to import classes where static attributes or methods with</samp> 
+   
+  <samp>the public modifier can be accessed without having to write the class name.</samp>
+  
+- <samp>For more details, please open project [Modifier Class](https://github.com/suardi26/Java-OOP/tree/main/Modifier%20Class/src) in repositories suardi26/Java-OOP/Modifier Class/src/.</samp>
+
+- <samp>Have a nice day.</samp>
+
+---
