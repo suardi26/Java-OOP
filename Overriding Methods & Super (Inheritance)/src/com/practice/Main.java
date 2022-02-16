@@ -6,7 +6,7 @@ package com.practice;
     // Method Overriding biasanya dibuat dengan menambahkan anotasi '@Override' sebelum pembuatan method.
 
     // Pembuatan method Overridding dilakukan dengan menulis nama method yang sama pada nama method yang ada pada super class.
-    // Sehingga method pada class super ditimpa dengan method overriding yang ada pada sub class.
+    // Sehingga method pada class super ditimpa dengan method overridding yang ada pada sub class.
 
     // Keyword 'this' digunakan untuk menyatakan atribut dan method yang ada didalam class tersebut.
 
