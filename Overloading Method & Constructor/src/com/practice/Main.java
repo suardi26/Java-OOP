@@ -1,5 +1,8 @@
 package com.practice;
 
+// Constructor overload adalah membuat beberapa Constructor dengan nama Constructor yang sama, tapi dibedakan dari tipe data atau jumlah parameter
+// Method overload adalah membuat beberapa method dengan nama method yang sama, tapi dibedakan dari tipe data atau jumlah parameter.
+
 public class Main{
 
     public static void main(String[] args){
@@ -37,7 +40,7 @@ public class Main{
          //Memanggil Method 'getProductName()'.
         System.out.println("Nama Product\t: "+product3.getProductName());
 
-         //Memanggil Method overload 'getTotalPayment' pada class Arithmetic yang memiliki kedua parameter yang bertipe data int.
+         //Memanggil Method overload 'getTotalPayment' pada class Arithmetic yang memiliki kedua parameter yang bertipe data double.
         System.out.println("Total Bayar\t: "+Arithmetic.getTotalPayment(6500.00,0.00));
 
          //Memanggil method footer.
@@ -46,7 +49,7 @@ public class Main{
          //Memanggil Method 'getProductName()'.
         System.out.println("Nama Product\t: "+product4.getProductName());
 
-        //Memanggil Method overload 'getTotalPayment' pada class Arithmetic yang memiliki kedua parameter yang bertipe data int.
+        //Memanggil Method overload 'getTotalPayment' pada class Arithmetic yang memiliki kedua parameter yang bertipe data double.
         System.out.println("Total Bayar\t: "+Arithmetic.getTotalPayment(5000.00,500.00));
     }
 
