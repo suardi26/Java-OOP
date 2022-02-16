@@ -35,3 +35,13 @@
   <samp>dilakukan dengan menulis nama method yang sama pada nama method yang ada pada super class. Sehingga method pada class super</samp> 
   
   <samp>ditimpa dengan method overridding yang ada pada sub class.</samp>
+  
+- <samp>Keyword 'this' digunakan untuk menyatakan atribut dan method yang ada didalam class tersebut.</samp>
+
+- <samp>Keyword 'super' digunakan untuk menyatakan attribut dan method yang diwariskan dari super class.</samp>
+
+- <samp>Untuk lebih jelasnya, silahkan buka project [Overriding Methods & Super (Inheritance)](https://github.com/suardi26/Java-OOP/tree/main/Overriding%20Methods%20%26%20Super%20(Inheritance)/src/com/practice) di repositori suardi26/Java-OOP/</samp>
+ 
+  <samp>Overriding Methods & Super (Inheritance)/src/com/practice/.</samp>
+
+- <samp>Semoga harimu menyenangkan.</samp>
