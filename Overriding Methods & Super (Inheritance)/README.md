@@ -22,7 +22,7 @@
 
 ---
 
-- <samp>Method Overriding adalah Proses membuat ulang method yang diwariskan oleh super class, sehingga method tersebut</samp>
+- <samp>Method Overridding adalah Proses membuat ulang method yang diwariskan oleh super class, sehingga method tersebut</samp>
   
   <samp>dapat digunakan oleh sub class dengan lebih spesifik sesuai dengan kebutuhan dari sub class itu sendiri.</samp>
   
