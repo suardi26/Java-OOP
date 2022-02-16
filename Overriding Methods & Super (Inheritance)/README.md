@@ -22,4 +22,16 @@
 
 ---
 
-- <samp>Inheritance adalah proses mewariskan attribut dan method dari parent class ke child class.</samp>
+- <samp>Method Overriding adalah Proses membuat ulang method yang diwariskan oleh super class, sehingga method tersebut</samp>
+  
+  <samp>dapat digunakan oleh sub class dengan lebih spesifik sesuai dengan kebutuhan dari sub class itu sendiri.</samp>
+  
+- <samp>Method Overriding biasanya dibuat dengan menambahkan anotasi '@Override' sebelum pembuatan method.</samp>
+
+- <samp>Pembuatan method Overridding dilakukan dengan menulis nama method yang sama pada nama method yang ada pada super class.</samp> 
+  
+  <samp>Sehingga method pada class super ditimpa dengan method overridding yang ada pada sub class.Pembuatan method Overridding</samp>
+  
+  <samp>dilakukan dengan menulis nama method yang sama pada nama method yang ada pada super class. Sehingga method pada class super</samp> 
+  
+  <samp>ditimpa dengan method overridding yang ada pada sub class.</samp>
