@@ -1,13 +1,27 @@
 ## Inheritance
 
-- Inheritance is the process of inheriting attributes and methods from parent class to child class.
+-  <samp>Inheritance is the process of inheriting attributes and methods from parent class to child class. </samp>
  
-- A class that inherits its methods and attributes is called (super class, parent class, base class).
+-  <samp>A class that inherits its methods and attributes is called (super class, parent class, base class).</samp>
  
-- Classes that inherit the methods and attributes of the super class are called (sub class, child class, derived class).
+-  <samp>Classes that inherit the methods and attributes of the super class are called (sub class, child class, derived class).</samp>
  
-- To be able to inherit attributes and methods from the super class, you can use the keyword 'extends'.
+-  <samp>To be able to inherit attributes and methods from the super class, you can use the keyword 'extends'.</samp>
 
-- <samp>For more details, please open project [Inheritance](https://github.com/suardi26/Java-OOP/tree/main/Inheritance/src/com/practice) in repositories suardi26/Java-OOP/Modifier Class/src/com/practice/.</samp>
+- <samp>For more details, please open project [Inheritance](https://github.com/suardi26/Java-OOP/tree/main/Inheritance/src/com/practice) in repositories suardi26/Java-OOP/Inheritance/src/com/practice/.</samp>
 
 - <samp>Have a nice day.</samp>
+
+---
+
+- <samp>Inheritance adalah proses mewariskan attribut dan method dari parent class ke child class.</samp>
+ 
+- <samp>Class yang mewariskan method dan atributnya disebut(super class, parent class, base class).</samp>
+ 
+- <samp>Class yang mewarisi method dan atribut dari super class disebut (sub class, child class, derived class).</samp>
+ 
+- <samp>Untuk dapat mewarisi atribut dan method dari super class maka dapat menggunakan keyword 'extends'.</samp>
+
+- <samp>Untuk lebih jelasnya, silahkan buka project [Inheritance](https://github.com/suardi26/Java-OOP/tree/main/Inheritance/src/com/practice) in repositories suardi26/Java-OOP/Inheritance/src/com/practice/.</samp>
+
+- <samp>Semoga harimu menyenangkan.</samp>
