@@ -30,11 +30,7 @@
 
 - <samp>Pembuatan method Overridding dilakukan dengan menulis nama method yang sama pada nama method yang ada pada super class.</samp> 
   
-  <samp>Sehingga method pada class super ditimpa dengan method overridding yang ada pada sub class.Pembuatan method Overridding</samp>
-  
-  <samp>dilakukan dengan menulis nama method yang sama pada nama method yang ada pada super class. Sehingga method pada class super</samp> 
-  
-  <samp>ditimpa dengan method overridding yang ada pada sub class.</samp>
+  <samp>Sehingga method pada class super ditimpa dengan method overridding yang ada pada sub class.</samp>
   
 - <samp>Keyword 'this' digunakan untuk menyatakan atribut dan method yang ada didalam class tersebut.</samp>
 
