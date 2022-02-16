@@ -14,7 +14,9 @@
 
 - <samp>The keyword 'super' is used to declare the attributes and methods inherited from the super class.</samp>
 
-- <samp>For more details, please open project [Overriding Methods & Super (Inheritance)](https://github.com/suardi26/Java-OOP/tree/main/Overriding%20Methods%20%26%20Super%20(Inheritance)/src/com/practice) in repositories suardi26/Java-OOP/Overriding Methods & Super (Inheritance)/src/com/practice/.</samp>
+- <samp>For more details, please open project [Overriding Methods & Super (Inheritance)](https://github.com/suardi26/Java-OOP/tree/main/Overriding%20Methods%20%26%20Super%20(Inheritance)/src/com/practice) in repositories suardi26/Java-OOP/</samp>
+ 
+  <samp>Overriding Methods & Super (Inheritance)/src/com/practice/.</samp>
 
 - <samp>Have a nice day.</samp>
 
