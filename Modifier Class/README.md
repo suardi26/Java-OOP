@@ -52,5 +52,5 @@
   
 - <samp>Untuk lebih jelasnya, silahkan buka project [Modifier Class](https://github.com/suardi26/Java-OOP/tree/main/Modifier%20Class/src) di repositori suardi26/Java-OOP/Modifier Class/src/.</samp>
 
-- <samp>Have a nice day.</samp>
+- <samp>Semoga harimu menyenangkan.</samp>
 
