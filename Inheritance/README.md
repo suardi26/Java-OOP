@@ -22,6 +22,6 @@
  
 - <samp>Untuk dapat mewarisi atribut dan method dari super class maka dapat menggunakan keyword 'extends'.</samp>
 
-- <samp>Untuk lebih jelasnya, silahkan buka project [Inheritance](https://github.com/suardi26/Java-OOP/tree/main/Inheritance/src/com/practice) in repositories suardi26/Java-OOP/Inheritance/src/com/practice/.</samp>
+- <samp>Untuk lebih jelasnya, silahkan buka project [Inheritance](https://github.com/suardi26/Java-OOP/tree/main/Inheritance/src/com/practice) di repositori suardi26/Java-OOP/Inheritance/src/com/practice/.</samp>
 
 - <samp>Semoga harimu menyenangkan.</samp>
