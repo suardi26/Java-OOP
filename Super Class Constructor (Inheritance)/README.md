@@ -20,7 +20,7 @@
 
 - <samp>Namun subclass dapat memanggil Constructor superclass dengan menambahkan keyword 'super()' atau</samp>
  
- <samp>'super(parameter1, parameter2, ...);'.</samp>
+  <samp>'super(parameter1, parameter2, ...);'.</samp>
   
 - <samp>Untuk lebih jelasnya, silahkan buka project [Super Class Constructor (Inheritance)](https://github.com/suardi26/Java-OOP/tree/main/Super%20Class%20Constructor%20(Inheritance)/src/com/practice) di repositori suardi26/Java-OOP/</samp>
  
