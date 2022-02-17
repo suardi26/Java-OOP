@@ -26,4 +26,4 @@
  
   <samp>Super Class Constructor (Inheritance)/src/com/practice/.</samp>
 
-- <samp>Have a nice day.</samp>
+- <samp>Semoga harimu menyenangkan.</samp>
