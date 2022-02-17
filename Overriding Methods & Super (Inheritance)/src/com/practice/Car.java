@@ -1,6 +1,6 @@
 package com.practice;
 
-import javax.sound.sampled.SourceDataLine;
+
 
 // Dengan menambahkan keyword 'extends' dan class Vehicle maka class Car adalah class turunan dari class Vehicle.
 public class Car extends Vehicle {
