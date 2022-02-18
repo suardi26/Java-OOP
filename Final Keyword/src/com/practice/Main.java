@@ -7,10 +7,9 @@ package com.practice;
       dapat diturunkan pada subclassnya.
     - Final Method dapat di diwariskan pada subclass namun tidak bisa dioverride. Final method juga dapat di overload tapi sebaiknya
       menggunakan keyword 'final' di setiap method overloadnya.
-    - Overridding Method dilakukan dengan menggunakan modifier yang sama atau lebih luas dari modifier dari superclassnya.
+    - Overridding Method dilakukan dengan menggunakan modifier yang sama atau lebih luas dari modifier pada superclassnya.
       Misalnya pada superclass menggunakan modifier default (tanpa menggunakan modifier) maka subclass harus menggunakan modifier default
       atau lebih luas lagi seperti public pada method overridding.
-
     
 */
 public class Main {

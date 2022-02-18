@@ -13,7 +13,7 @@ public class Cat extends Animal{
     public void printData(){
 
         // tidak dapat mengubah nilai dari variabel 'title' yang memiliki modifier 'final' dari superclass Animals.
-        //title = "Animals";
+        // this.title = "Animals";
 
         System.out.println(this.title);
         System.out.println("Makanan\t\t: "+this.food);
