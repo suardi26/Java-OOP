@@ -47,3 +47,11 @@
   <samp>method baru dengan nama yang sama untuk tugas yang lain atau tugas yang lebih spesifik.</samp> 
     
   <samp>Polimorfisme memungkinkan kita untuk melakukan satu tindakan dengan cara yang berbeda.</samp>
+  
+- <samp>Java memiliki 2 type polymorfisme :<samp>
+  
+    - <samp>Compile time Polymorphism (Static Polymorphism) -> Polymorphism ini menerapkan teknik Method Overloading,</samp>
+
+      <samp>dimana method Overloading adalah membuat beberapa method dengan satu nama yang sama tapi</samp> 
+
+      <samp>dibedakan dengan tipe data atau jumlah parameternya dalam sebuah class.</samp>
