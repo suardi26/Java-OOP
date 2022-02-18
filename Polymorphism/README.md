@@ -42,6 +42,8 @@
   
 - <samp>Polimorfisme dapat dilakukan ketika memiliki beberapa class yang terkait satu sama lain melalui (Pewarisan) inheritance.</samp>
   
-  <samp>Ketika sub class mewarisi atribut dan method dari super class maka polimorfisme membuat method baru dengan nama yang sama untuk</samp> 
+  <samp>Ketika sub class mewarisi atribut dan method dari super class maka polimorfisme membuat </samp> 
   
-  <samp>tugas yang lain atau tugas yang lebih spesifik. Polimorfisme memungkinkan kita untuk melakukan satu tindakan dengan cara yang berbeda.</samp>
+  <samp>method baru dengan nama yang sama untuk tugas yang lain atau tugas yang lebih spesifik.</samp> 
+    
+  <samp>Polimorfisme memungkinkan kita untuk melakukan satu tindakan dengan cara yang berbeda.</samp>
