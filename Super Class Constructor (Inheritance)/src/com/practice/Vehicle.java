@@ -6,10 +6,12 @@ public class Vehicle {
     public String type;
     public int speed;
 
+    // Membuat constructor.
     public Vehicle(String brand){
         this.brand = brand;
     }
 
+    // Overloading constructor.
     public Vehicle( String brand, String type, int speed){
         
         this.brand = brand;
@@ -18,6 +20,7 @@ public class Vehicle {
     }
 
     public void printData(){
+        
         if(this.brand != null && this.type != null && this.speed != 0){
             System.out.println("Brand\t: "+this.brand);
             System.out.println("Type\t: "+this.type);
