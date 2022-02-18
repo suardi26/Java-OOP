@@ -9,3 +9,29 @@
   <samp>When a sub class inherits attributes and methods from a super class, polymorphism creates a new method with the same name</samp>
     
   <samp>for another or more specific task. Polymorphism allows us to perform one action in different ways.</samp>
+  
+- <samp>Java has 2 types of polymorphism :</samp>
+  
+    - <samp>Compile time Polymorphism (Static Polymorphism) -> This polymorphism applies the Method Overloading technique, where</samp>
+
+      <samp>the Overloading method is to create several methods with the same name but distinguished by the data type</samp> 
+
+      <samp>or the number of parameters in a class.</samp>
+    
+    - <samp>Runtime Polymorphism(Dynamic Polymorphism) -> This polymorphism applies Method Overridding technique. where</samp> 
+      
+      <samp>method Overriding is the process of remaking the methods inherited by the super class, so that the method can be used</samp> 
+      
+      <samp>by the sub class more specifically according to the needs of the sub class itself.</samp>
+  
+- <samp>Create reference variables from the super class but create objects from their respective subclasses. then we cannot</samp>
+  
+  <samp>directly access the attributes & methods that exist in the subclass, but we can only access the attributes & methods</samp>
+  
+  <samp>that exist in the superclass as well as the attributes & methods that are derived from the superclass.</samp>
+
+- <samp>For more details, please open project [Polymorphism](https://github.com/suardi26/Java-OOP/tree/main/Polymorphism/src/com/practice) in repositories suardi26/Java-OOP/Polymorphism/src/com/practice/.</samp>
+
+- <samp>Have a nice day.</samp>
+
+---
