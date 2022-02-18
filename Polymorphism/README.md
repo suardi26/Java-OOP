@@ -29,6 +29,13 @@
   <samp>directly access the attributes & methods that exist in the subclass, but we can only access the attributes & methods</samp>
   
   <samp>that exist in the superclass as well as the attributes & methods that are derived from the superclass.</samp>
+  
+      ```java
+      // the Animal class is a super class.
+      // the Hawk class is a subclass.
+  
+      Animal hawk = new Hawk("Meat",2);
+      ```
 
 - <samp>For more details, please open project [Polymorphism](https://github.com/suardi26/Java-OOP/tree/main/Polymorphism/src/com/practice) in repositories suardi26/Java-OOP/Polymorphism/src/com/practice/.</samp>
 
@@ -67,6 +74,13 @@
   <samp>langsung atribut & method yang ada pada subclass, namun kita hanya bisa mengakses atribut & method yang ada pada superclass<samp> 
 
   <samp>serta attribut & method yang diturunkan dari superclass.<samp>
+  
+    ```java
+      // class Animal adalah super class.
+      // class Hawk adalah sub class.
+    
+      Animal elang = new Hawk("Daging",2);
+      ```
     
 - <samp>Untuk lebih jelasnya, silahkan buka project [Polymorphism](https://github.com/suardi26/Java-OOP/tree/main/Polymorphism/src/com/practice) di repositori suardi26/Java-OOP/Polymorphism/src/com/practice/.</samp>
 
