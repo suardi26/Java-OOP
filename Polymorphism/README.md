@@ -68,7 +68,7 @@
 
   <samp>serta attribut & method yang diturunkan dari superclass.<samp>
     
-- <samp>Untuk lebih jelasnya, silahkan buka project [Polymorphism](Polymorphism](https://github.com/suardi26/Java-OOP/tree/main/Polymorphism/src/com/practice) di repositori suardi26/Java-OOP/Polymorphism/src/com/practice/.</samp>
+- <samp>Untuk lebih jelasnya, silahkan buka project [Polymorphism](https://github.com/suardi26/Java-OOP/tree/main/Polymorphism/src/com/practice) di repositori suardi26/Java-OOP/Polymorphism/src/com/practice/.</samp>
 
 - <samp>Semoga harimu menyenangkan.</samp>
 
