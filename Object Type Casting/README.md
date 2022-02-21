@@ -14,7 +14,7 @@
 
 - <samp>Downcasting is casting reference variables from superclass to subclass.</samp>
 
-- <samp>For more details, please open project [Object Type Casting](https://github.com/suardi26/Java-OOP/tree/main/Object%20Type%20Casting/src/com/practice) in repositories</samp> suardi26/Java-OOP/Object Type Casting/src/com/practice/.</samp>
+- <samp>For more details, please open project [Object Type Casting](https://github.com/suardi26/Java-OOP/tree/main/Object%20Type%20Casting/src/com/practice) in repositories suardi26/Java-OOP/Object Type Casting/src/com/practice/.</samp>
 
 - <samp>Have a nice day.</samp>
 
@@ -34,6 +34,6 @@
 
 - <samp>Downcasting adalah casting variabel reference dari superclass ke subclass.</samp>
 
-- <samp>Untuk lebih jelasnya, silahkan buka project [Object Type Casting](https://github.com/suardi26/Java-OOP/tree/main/Object%20Type%20Casting/src/com/practice) di repositori</samp> suardi26/Java-OOP/Object Type Casting/src/com/practice/.</samp>
+- <samp>Untuk lebih jelasnya, silahkan buka project [Object Type Casting](https://github.com/suardi26/Java-OOP/tree/main/Object%20Type%20Casting/src/com/practice) di repositori suardi26/Java-OOP/Object Type Casting/src/com/practice/.</samp>
 
 - <samp>Have a nice day.</samp>
