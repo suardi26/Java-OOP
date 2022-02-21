@@ -31,7 +31,7 @@ package com.practice;
           int number1 = 5;
           long number2 = number1;
 
-        - Casting eksplisit adalah casting yang dilakukan ketika kita ingin merubah suatu type data suatu nilai. dari tipe data yang
+        - Casting eksplisit adalah casting yang dilakukan ketika kita ingin merubah type data suatu nilai. dari tipe data yang
           berkapasitas besar ke tipe data yang berkapasitas kecil atau type data yang memiliki nilai bilangan desimal ke tipe 
           data yang memiliki nilai bilangan bulat. seperti
           
