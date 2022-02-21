@@ -8,7 +8,7 @@
 
 - [Reference Object](https://github.com/suardi26/Java-OOP/tree/main/Reference%20Object/src/com/practice)
 
-- [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Variable%20Type%20(OOP)/src/com/practice/Main.java)
+- [Variable Type (OOP)](https://github.com/suardi26/Java-OOP/tree/main/Variable%20Type%20(OOP)/src/com/practice)
 
 - [Modifier Class](https://github.com/suardi26/Java-OOP/tree/main/Modifier%20Class/src/com)
 
