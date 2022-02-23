@@ -22,7 +22,7 @@
   
 - <samp>Instance is a form of class that is accommodated through variables.</samp>
 
-- <samp>Nama class dibuat harus sama dengan nama filenya misalnya nama class 'Producct' maka nama filenya adalah 'Product.java'.</samp>
+- <samp>The name of the created class must be the same as the file name, for example the class name is 'Product', then the file name is 'Product.java'.</samp>
 
 - <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Class%20%26%20Object/src/com/practice/Main.java) in repositories suardi26/Java-OOP/Class & Object/src/com/practice/.</samp>
 
@@ -53,7 +53,7 @@
  
 - <samp>Instance adalah sebagai wujud dari class yang ditampung melalui variabel.</samp>
 
-- The name of the created class must be the same as the file name, for example the class name is 'Product', then the file name is 'Product.java'.
+- <samp>Nama class dibuat harus sama dengan nama filenya misalnya nama class 'Producct' maka nama filenya adalah 'Product.java'.</samp>
 
 - <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Class%20%26%20Object/src/com/practice/Main.java) di repositori   suardi26/Java-OOP/Class & Object/src/com/practice/.</samp>
 
