@@ -14,6 +14,14 @@
 
 - <samp>Downcasting is casting reference variables from superclass to subclass.</samp>
 
+- <samp>For DownCasting before doing casts, we can do a type check (checking data type),</samp> 
+ 
+  <samp>whether an object is created from the specified class/data type.</samp>
+
+- <samp>The result of the 'instanceof' operator is a boolean, true if the object is</samp> 
+ 
+  <samp>created from the specified class/data type and false otherwise.</samp>
+
 - <samp>For more details, please open project [Object Type Casting](https://github.com/suardi26/Java-OOP/tree/main/Object%20Type%20Casting/src/com/practice) in repositories</samp>
   
   <samp>suardi26/Java-OOP/Object Type Casting/src/com/practice/.</samp>
@@ -35,6 +43,14 @@
 - <samp>Upcasting adalah casting variabel reference dari subclass ke superclass.</samp>
 
 - <samp>Downcasting adalah casting variabel reference dari superclass ke subclass.</samp>
+
+- <samp>Untuk DownCasting sebelum melakukan casts, kita dapat melakukan type check (Pengecekan type data),</samp> 
+  
+  <samp>apakah sebuah object dibuat dari class/tipe data yang ditentukan.</samp>
+
+- <samp>Hasil Operator 'instanceof' adalah boolean, true jika object tersebut dibuat dari</samp> 
+  
+  <samp>class/tipe data yang ditentukan dan false jika bukan.</samp>  
 
 - <samp>Untuk lebih jelasnya, silahkan buka project [Object Type Casting](https://github.com/suardi26/Java-OOP/tree/main/Object%20Type%20Casting/src/com/practice) di repositori</samp> 
   
