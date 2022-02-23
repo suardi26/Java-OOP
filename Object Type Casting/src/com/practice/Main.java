@@ -50,7 +50,7 @@ package com.practice;
       class/tipe data yang ditentukan.
 
     - Hasil Operator 'instanceof' adalah boolean, true jika object tersebut dibuat dari class/tipe data yang ditentukan dan false jika bukan. 
-     , namun false jika bukan.
+     
 */
 
 public class Main {
