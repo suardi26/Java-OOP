@@ -5,6 +5,19 @@ package com.practice;
 
 // namun subclass dapat memanggil Constructor superclass dengan menambahkan keyword 'super()' atau 'super(parameter1, parameter2, ...);'.
 
+// superclass constructor dapat dipanggil pada constructor yang ada pada subclassnya.
+
+// ketika superclass membuat constructor (bukan constructor default), maka subclassnya harus membuat constructor sesuai dengan 
+// parameter dari constructor superclassnya.  
+
+// keyword 'super' juga dapat digunakan untuk memanggil atribut dan method dari superclass.
+
+// keyword 'super' biasanya digunakan untuk memanggil method dari superclass yang telah dioverride pada subclass.
+
+// sedangkan keyword 'this' digunakan untuk referensi dari class itu sendiri.
+// keyword 'this' digunakan untuk memanggil atribut atau method pada class itu sendiri sehingga pada saat variabel class/atribut class
+// memiliki nama yang sama dengan variabel local atau parameter suatu method (varible shadowing) dapat diatasi.
+
 public class Main {
     
     public static void main(String[] args){

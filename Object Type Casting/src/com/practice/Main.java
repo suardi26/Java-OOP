@@ -1,6 +1,8 @@
 package com.practice;
 
 /*   
+    - Casting dapat juga dilakukan untuk tipe data yang bukan primitif.
+
     - Casting variabel reference adalah mengubah variabel reference pada suatu object baik itu dari superclass ke subclass (Downcasting)
       atau dari subclass ke superclass(Upcasting).
 
@@ -12,7 +14,7 @@ package com.practice;
         
       maka dari contoh diatas nilai int adalah 2 dan tidak dapat dikembalikan menjadi 2.5 lagi.
 
-    - Namun casting variabel reference berbeda, variabel reference mengacu ke object aritinya object dibuat berdasarkan referensi dari 
+    - Namun casting variabel reference berbeda, variabel reference mengacu ke object artinya object dibuat berdasarkan referensi dari 
       class tertentu, namun variabel referance tidak berisi object itu sendiri.
 
     - Casting referensi variabel tidak berisi object yang dirujuknya, namun hanya melabeli object tersebut dengan kata lain memperluas 
@@ -44,6 +46,11 @@ package com.practice;
           perlu diingat untuk mengubah tipe data dari yang berkapasitas besar ke tipe data yang berkapasitas kecil dapat merubah nilainya
           ketika nilai yang dicasting di luar dari kapasitas tipe data. 
 
+    - untuk DownCasting sebelum melakukan casts, kita dapat melakukan type check (Pengecekan type data), apakah sebuah object dibuat dari 
+      class/tipe data yang ditentukan.
+
+    - Hasil Operator 'instanceof' adalah boolean, true jika object tersebut dibuat dari class/tipe data yang ditentukan dan false jika bukan. 
+     , namun false jika bukan.
 */
 
 public class Main {
@@ -90,8 +97,32 @@ public class Main {
         Lion animal_lions2 = (Lion) animal;
         animal_lions2.printData(); 
 
-        
+        System.out.println("\n= = = = = DownCasting Dengan Method = = = = =");
+        Main.checkObject(new Lion("Daging",4));
+        Main.checkObject(new Deer("Rumput",4));
+        Main.checkObject(new Animal("makanan masing-masing",0));
        
+
+    }
+
+    // Melakukan pengecekan type data terhadap suatu object menggunakan keywords 'instanceof' serta melakukan downcasting.
+    private static void checkObject(Animal animal){
+
+      if (animal instanceof Lion){
+
+        Lion animalLion2 = (Lion) animal;
+        System.out.println("Singa Memakan "+animalLion2.getFood()+" dan memiliki jumlah kaki "+animalLion2.getNumberOfFeet()+".");
+     
+      }else if(animal instanceof Deer){
+
+        Deer animalDeer2 = (Deer) animal;
+        System.out.println("Deer Memakan "+animalDeer2.getFood()+" dan memiliki jumlah kaki "+animalDeer2.getNumberOfFeet()+".");
+      }else{
+
+        System.out.println("Hewan Memakanan "+animal.getFood()+" dan memiliki jumlah kaki yang berbeda-beda.");
+      
+      }
+
     }
     
 }

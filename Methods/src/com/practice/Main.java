@@ -1,14 +1,21 @@
 package com.practice;
 
 
-// class adalah wadah untuk menampung fungsi/method dan variabel (atribut/properti). 
+// class adalah wadah/blueprint/cetakan untuk menampung fungsi/method dan variabel (atribut/properti) yang digunakan untuk membuat object. 
 // Penulisan nama class biasanya menggunakan format PascalCase. contohnya : class ProductList, class Product, Class Company, class FoodProduct.  
 
-// object adalah sebuah variabel yang merupakan instance/wujud dari class. 
+// object adalah hasil instansiasi dari sebuah class.  
+// object adalah kumpulan data yang berisi field/properti/attribut dan method/fungsi/behavior sesuai dari referensi classnya.
+// pembuatan object dapat dilakukan dengan keyword 'new', diikkuti dengan nama class dan tanda kurung '()'.
+
 
 // class berisi definisi variabel dan fungsi yang menggambarkan sebuah object. Sama seperti benda di dunia nyata yang merupakan object misalnya
 // smartphone yang memiliki atribut seperti merk, tipe, warna, dll. Serta behavior (perilaku) seperti memutar musik, mengirim pesan,
 // mengambil gambar.
+
+// variabel Shadowing adalah kejadian ketika kita membuat nama variabel local atau parameter suatu method sama dengan 
+// nama variabel class/atribut class. ketika variable shadowing terjadi, maka yang diakses adalah variabel local atau perameter suatu method
+// bukan variabel class/atribut class.
 
 public class Main{
 

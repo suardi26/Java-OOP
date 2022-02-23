@@ -13,12 +13,15 @@ public class Product {
     public Product(String name){
 
         this.productName = name;
+       
     }
 
     public Product(){
 
-        totalProduct++;
-        this.productName = "Product"+totalProduct;
+        // pemanggilan constructor 'Product' yang memniliki 1 variabel yang bernilai string, dan pemanggilan Constsructor harus diletakan 
+        // pada statement pertama atau pada baris pertama dalam sebuah  constructor lain. 
+        this("Product "+(++totalProduct));
+        
     }
 
     // membuat method getter untuk variabel 'productName'.

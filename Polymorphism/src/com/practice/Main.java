@@ -22,6 +22,9 @@ import java.util.ArrayList;
           method Overriding adalah Proses membuat ulang method yang diwariskan oleh super class, sehingga method tersebut 
           dapat digunakan oleh sub class dengan lebih spesifik sesuai dengan kebutuhan dari sub class itu sendiri.
 
+    Dalam OOP, Polymorphisme adalah kemampuan sebuah object berubah bentuk menjadi bentuk lain dalam satu referensi class 
+    namun referensi class harus superclass, maka Polymorphisme erat kaitannya dengan pewarisan (inheritance).
+
 */
 
 public class Main {

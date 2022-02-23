@@ -2,6 +2,9 @@ package com.practice;
 
 // Constructor overload adalah membuat beberapa Constructor dengan nama Constructor yang sama, tapi dibedakan dari tipe data atau jumlah parameter
 // Method overload adalah membuat beberapa method dengan nama method yang sama, tapi dibedakan dari tipe data atau jumlah parameter.
+// ketika method dapat dipanggil pada method lain, Constructor juga dapat dipanggil pada constructor lain dengan menggunakan keyword
+// 'this' dalam suatu class yang sama namun pemanggilan constructor lain harus ditempatkan pada baris pertama atau statement pertama dalam
+// sebuah constructor.
 
 public class Main{
 

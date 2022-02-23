@@ -2,6 +2,7 @@ package com.practice;
 
     // constructor adalah sebuah method khusus yang akan dieksekusi pada saat pembuatan Object instansiasi(instance).
     // Untuk membuat constructor dapat dilakukan dengan mengambil nama class dan digunakan sebagai nama method.
+    // ketika tidak membuat constructor maka pada saat instansiasi object akan dibuat secara otonatis default constructor.
 
 
 public class Main {

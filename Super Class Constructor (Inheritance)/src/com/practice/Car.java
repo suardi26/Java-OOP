@@ -13,6 +13,7 @@ public class Car extends Vehicle{
 
         // Mengakses Constructor dari Super Class.
         super(brand, type, speed);
-
+       
     }
+    
 }
