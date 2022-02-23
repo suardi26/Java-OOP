@@ -10,7 +10,9 @@
 
 - <samp>object is the result of an instance of a class.</samp>
  
-- <samp>object is a collection of data that contains fields/properties/attributes and methods/functions/behaviors according to the class reference.</samp>
+- <samp>object is a collection of data that contains fields/properties/attributes and</samp> 
+
+  <samp>methods/functions/behaviors according to the class reference.</samp>
 
 - <samp>Class contains variable definitions and functions that describe an object. Just like objects in the real world</samp> 
  
@@ -37,7 +39,9 @@
   
 - <samp>object adalah hasil instansiasi dari sebuah class.</samp> 
  
-- <samp>object adalah kumpulan data yang berisi field/properti/attribut dan method/fungsi/behavior sesuai dari referensi classnya.</samp>
+- <samp>object adalah kumpulan data yang berisi field/properti/attribut dan</samp> 
+ 
+  <samp>method/fungsi/behavior sesuai dari referensi classnya.</samp>
 
 - <samp>class berisi definisi variabel dan fungsi yang menggambarkan sebuah object. Sama seperti benda di dunia nyata</samp> 
  
