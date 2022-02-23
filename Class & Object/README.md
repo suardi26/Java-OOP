@@ -1,12 +1,16 @@
 ## Class & Object
 
-- <samp>class is a container to hold functions/methods and variables (attributes/properties).</samp> 
+- <samp>class is a container / blueprint / template to hold functions / methods and variables (attributes / properties)</samp> 
+ 
+  <samp>that are used to create objects.</samp> 
 
 - <samp>Writing class names usually uses the PascalCase format. for example: class ProductList, class Product,</samp> 
  
   <samp>class Company, class FoodProduct.</samp>
 
-- <samp>Object is a variable which is an instance of the class.</samp>
+- <samp>object is the result of an instance of a class.</samp>
+ 
+- <samp>object is a collection of data that contains fields/properties/attributes and methods/functions/behaviors according to the class reference.</samp>
 
 - <samp>Class contains variable definitions and functions that describe an object. Just like objects in the real world</samp> 
  
@@ -23,13 +27,17 @@
       
  ---
   
-- <samp>Class adalah wadah untuk menampung fungsi/method dan variabel (atribut/properti).</samp>  
+- <samp>class adalah wadah/blueprint/cetakan untuk menampung fungsi/method dan variabel (atribut/properti)</samp>  
+ 
+  <samp> yang digunakan untuk membuat object.</samp>  
 
 - <samp>Penulisan nama class biasanya menggunakan format PascalCase. contohnya : class ProductList,</samp>  
  
   <samp>class Product, Class Company, class FoodProduct.</samp>
   
-- <samp>Object adalah sebuah variabel yang merupakan instance/wujud dari class.</samp> 
+- <samp>object adalah hasil instansiasi dari sebuah class.</samp> 
+ 
+- <samp>object adalah kumpulan data yang berisi field/properti/attribut dan method/fungsi/behavior sesuai dari referensi classnya.</samp>
 
 - <samp>class berisi definisi variabel dan fungsi yang menggambarkan sebuah object. Sama seperti benda di dunia nyata</samp> 
  
