@@ -28,11 +28,11 @@
  
   <samp>'super(parameter1, parameter2, ...);'.</samp>
   
-- keyword 'super' juga dapat digunakan untuk memanggil atribut dan method dari superclass.
+- <samp>Keyword 'super' juga dapat digunakan untuk memanggil atribut dan method dari superclass.</samp>
 
-- keyword 'super' biasanya digunakan untuk memanggil method dari superclass yang telah dioverride pada subclass.
+- <samp>Keyword 'super' biasanya digunakan untuk memanggil method dari superclass yang telah dioverride pada subclass.</samp>
 
-- sedangkan keyword 'this' digunakan untuk referensi dari class itu sendiri.
+- <samp>Sedangkan keyword 'this' digunakan untuk referensi dari class itu sendiri.</samp>
   
 - <samp>Untuk lebih jelasnya, silahkan buka project [Super Class Constructor (Inheritance)](https://github.com/suardi26/Java-OOP/tree/main/Super%20Class%20Constructor%20(Inheritance)/src/com/practice) di repositori suardi26/Java-OOP/</samp>
  
