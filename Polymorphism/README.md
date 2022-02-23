@@ -59,8 +59,8 @@
     
   <samp>Polimorfisme memungkinkan kita untuk melakukan satu tindakan dengan cara yang berbeda.</samp>
     
-- <samp>Dalam OOP, Polymorphisme adalah kemampuan sebuah object berubah menjadi bentuk lain dalam satu referensi class</samp> 
-  
+- <samp>Dalam OOP, Polymorphisme adalah kemampuan sebuah object berubah bentuk menjadi bentuk lain dalam satu referensi class</samp> 
+   
   <samp>namun referensi class harus superclass, maka Polymorphisme erat kaitannya dengan pewarisan (inheritance).</samp>
   
 - <samp>Java memiliki 2 type polymorfisme :</samp>
