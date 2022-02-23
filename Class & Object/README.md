@@ -22,7 +22,9 @@
   
 - <samp>Instance is a form of class that is accommodated through variables.</samp>
 
-- <samp>The name of the created class must be the same as the file name, for example the class name is 'Product', then the file name is 'Product.java'.</samp>
+- <samp>The name of the created class must be the same as the file name, for example</samp> 
+ 
+  <samp>the class name is 'Product', then the file name is 'Product.java'.</samp>
 
 - <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-OOP/blob/main/Class%20%26%20Object/src/com/practice/Main.java) in repositories suardi26/Java-OOP/Class & Object/src/com/practice/.</samp>
 
