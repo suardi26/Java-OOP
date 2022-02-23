@@ -10,6 +10,10 @@
     
   <samp>for another or more specific task. Polymorphism allows us to perform one action in different ways.</samp>
   
+- <samp>In OOP, Polymorphism is the ability of an object to change into another form in one class reference but the class reference</samp> 
+  
+  <samp>must be a superclass, so Polymorphism is closely related to inheritance.</samp>
+  
 - <samp>Java has 2 types of polymorphism :</samp>
   
     - <samp>Compile time Polymorphism (Static Polymorphism) -> This polymorphism applies the Method Overloading technique, where</samp>
@@ -54,8 +58,12 @@
   <samp>method baru dengan nama yang sama untuk tugas yang lain atau tugas yang lebih spesifik.</samp> 
     
   <samp>Polimorfisme memungkinkan kita untuk melakukan satu tindakan dengan cara yang berbeda.</samp>
+    
+  <samp>Dalam OOP, Polymorphisme adalah kemampuan sebuah object berubah menjadi bentuk lain dalam satu referensi class</samp> 
   
-- <samp>Java memiliki 2 type polymorfisme :<samp>
+  <samp>namun referensi class harus superclass, maka Polymorphisme erat kaitannya dengan pewarisan (inheritance).</samp>
+  
+- <samp>Java memiliki 2 type polymorfisme :</samp>
   
     - <samp>Compile time Polymorphism (Static Polymorphism) -> Polymorphism ini menerapkan teknik Method Overloading,</samp>
 
