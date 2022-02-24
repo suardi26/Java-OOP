@@ -12,6 +12,15 @@ package com.practice;
 
     // Keyword 'super' digunakan untuk menyatakan attribut dan method yang diwariskan dari super class.
 
+    // variabel hiding adalah masalah yang terjadi ketika kita membuat nama attribut pada subclass yang sama pada superclass.
+    // tidak ada yang namanya attribute overridding, ketika kita membuat ulang nama atribut/variabel di subclass itu adalah variabel hiding.
+    // untuk mengatasi variabel hiding dapat mengakses langsung attribut/variabel dari superclass menggunakan keyword 'super'.
+
+    // Yang membedakan variabel hiding dan method overriding adalah ketika sebuah object di casts baik dari subclass ke superclass (UpCasting).
+    // , atau dari superclass ke subclass (DownCasting). saat object di casts, method overriding akan tetap diakses dari 
+    // class semula karena method overriding mengikuti objectnya bukan variabel reference yang dicasts, 
+    // namun variabel akan mengakses variable yang ada di class barunya karena attribut setiap class berdiri sendiri (independent). 
+
 public class Main {
     
     public static void main(String[] args){
@@ -36,7 +45,26 @@ public class Main {
         // Memanggil method overriding 'drive' dari class Car yang merupakan turunan dari class Vehicle dengan object 'vehicle2'.
         vehicle2.drive();
         Main.footer();
+
+        // 
  
+        // variable hidding.
+        System.out.println("Di Casting Pada tipe data Superclass 'Vehicle' Namun method override tidak berubah hanya" 
+                            +" attribut/variable yang berubah karena berdiri sendiri meski memiliki nama yang sama.");
+        Main.footer();
+        Car vehicle3 = new Car();
+        vehicle3.variableHiding = 1;
+        vehicle3.variableHiding();
+        System.out.println(vehicle3.variableHiding);
+        Main.footer();
+        System.out.println("Di casting ke tipe data superclass 'Vehicle'.");
+        Main.footer();
+        Vehicle vehicle4 = (Vehicle) vehicle3;
+        vehicle4.variableHiding = 4;
+        vehicle4.variableHiding();
+        System.out.println(vehicle4.variableHiding);
+
+
     }
 
     public static void footer(){

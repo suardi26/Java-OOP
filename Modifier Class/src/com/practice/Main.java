@@ -9,6 +9,10 @@ access modifier pada class :
 
     - package adalah sebuah folder yang digunakan untuk mengelompokan class, sehingga lebih memudahkan dalam mengelolah kode program,
       terutama pada aplikasi yang besar.
+    
+    - sama seperti folder/direktori, package juga bisa nested/bercabang, kita bisa menggunakan tanda titik '.' untuk membuat nested package.
+
+    - ketika membuat class dalam package, maka diatas file java, kita wajib menyebutkan nama packagenya.
 
     - Built-in Package adalah package bawaan pada java seperti : 'java.util.'
     
@@ -16,6 +20,12 @@ access modifier pada class :
 
     - Keyword 'import' pada java digunakan untuk import class yang berada di package lain, sehingga atribut dan method pada class tersebut
       dapat diakses.
+
+    - untuk impor class pada package yang berbeda harus menggunakan modifier public. 
+
+    - Secara default, semua class yang ada di package java.lang sudah auto import, jadi kita tidak perlu melakukan import secara manual.
+      contoh class yang ada pada package java.lang : class String, Integer, Long, Boolean, dan lain-lain. untuk itu kita tidak perlu 
+      import class-class tersebut secara manual.
 
     - Keyword 'import static' pada java digunakan untuk import class dimana atribut atau method static dengan modifier public dapat
       diakses tanpa harus menuliskan nama classnya.  

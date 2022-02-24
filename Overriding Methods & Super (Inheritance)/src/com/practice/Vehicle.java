@@ -6,6 +6,8 @@ public class Vehicle {
     public String brand;
     public String type;
     public int speed;
+
+    public int variableHiding;
     
     
     public void drive(){
@@ -19,5 +21,10 @@ public class Vehicle {
         String title = "Kendaraan";
 
         return title;
+    }
+
+    public void variableHiding(){
+
+        System.out.println("variable from superclass 'vehicle'.");
     }
 }

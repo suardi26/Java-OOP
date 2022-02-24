@@ -9,6 +9,9 @@ public class Car extends Vehicle {
     String type = super.type;
     int speed = super.speed;
 
+    //variabel Hiding. membuat ulang nama variabel dari superclass.
+    public int variableHiding;
+
     // Membuat method overriding 'drive', dari super class Vehicle.
     @Override
     public void drive(){
@@ -34,4 +37,9 @@ public class Car extends Vehicle {
         return title;
     }
 
+    @Override
+    public void variableHiding(){
+
+        System.out.println("variable from subclass 'Car'.");
+    }
 }
