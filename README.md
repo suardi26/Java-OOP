@@ -16,7 +16,7 @@
 
 - [Static Keyword](https://github.com/suardi26/Java-OOP/tree/main/Static%20Keyword/src/com/practice)
 
-- [Access Modifier OOP](https://github.com/suardi26/Java-OOP/tree/main/Public%20%26%20Private/src/com/practice)
+- [Access Modifier OOP](https://github.com/suardi26/Java-OOP/tree/main/Access%20Modifier%20OOP/src/com/practice)
 
 - [Overloading Method & Constructor](https://github.com/suardi26/Java-OOP/tree/main/Overloading%20Method%20%26%20Constructor/src/com/practice)
 
