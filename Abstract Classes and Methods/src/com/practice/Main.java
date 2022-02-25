@@ -14,6 +14,13 @@ import com.shape.*;
 
     - method abstract adalah method yang tidak memiliki implementasi atau tidak ada bentuk konkritnya. dengan kata lain 
       method abstract adalah method yang tidak memiliki isi dan method abstract hanya dapat digunakan pada class abstract.
+
+    - karena tidak memiliki isi maka method abstract, wajib untuk di override di subclass artinya membuat method abstract pada superclass.
+      memaksa class turunannya untuk override method abstract.
+
+    - method abstract tidak boleh memiliki access modifier private.
+
+    - class abstract biasanya diturunkan pada class biasa, namun class abstract juga dapat diturunkan pada class abstract.
 */
 
 public class Main {

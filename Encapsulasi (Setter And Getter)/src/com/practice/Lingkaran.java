@@ -15,8 +15,12 @@ public class Lingkaran {
 
     // method setter.
     public void setDiameter(double diameter){
-
-        this.diameter = diameter;
+        // validasi
+        if(diameter != 0){
+            this.diameter = diameter;
+        }
+       
+        
     }
 
     // method getter.
