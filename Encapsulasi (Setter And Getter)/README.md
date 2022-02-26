@@ -1,5 +1,9 @@
 ## Encapsulasi (Setter And Getter)
 
+- <samp>Encapsulation means ensuring that sensitive data of an object is hidden from outside access</samp> 
+ 
+  <samp>so that we can keep the data of an object intact or valid.</samp>
+
 - <samp>Encapsulation is a way to prevent data from being accessed from another class directly,</samp>
   
   <samp>where the data is wrapped in a private modifier so that data can only be accessed in its class. And to fill and retrieve</samp> 
@@ -23,6 +27,10 @@
 - <samp>Have a nice day.</samp>
   
 ---
+  
+- <samp>Encapsulation artinya memastikan data sensitif sebuah objek tersembunyi dari akses luar sehingga</samp>
+  
+  <samp>kita bisa menjaga agar data sebuah object tetap baik atau valid.</samp>
   
 - <samp>Enkapsulasi (Encapsulation) adalah cara untuk mencegah data untuk diakses dari class lain secara langsung, dimana data tersebut</samp> 
   
