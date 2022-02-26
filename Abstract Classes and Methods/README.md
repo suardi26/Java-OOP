@@ -18,7 +18,7 @@
   
 - <samp>Because it has no content, the method is abstract, it must be overridden in the subclass, meaning to create</samp> 
   
-  <samp>an abstract method in the superclass. force the derived class to override the abstract method.</samp>
+  <samp>an abstract method in the superclass force the derived class to override the abstract method.</samp>
   
 - <samp>Abstract methods cannot have private access modifiers.</samp>
 
@@ -44,9 +44,9 @@
 
   <samp>method abstract adalah method yang tidak memiliki isi dan method abstract hanya dapat digunakan pada class abstract.</samp>
   
-- <samp>Karena tidak memiliki isi maka method abstract, wajib untuk di override di subclass artinya membuat method abstract pada superclass.</samp>
+- <samp>Karena tidak memiliki isi maka method abstract, wajib untuk di override di subclass artinya membuat</samp> 
 
-  <samp>memaksa class turunannya untuk override method abstract.</samp>
+  <samp>method abstract pada superclass memaksa class turunannya untuk override method abstract.</samp>
   
 - <samp>Method abstract tidak boleh memiliki access modifier private.</samp>
 
