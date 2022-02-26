@@ -58,6 +58,11 @@
 
 - <samp>Default atribut interface adalah public static final.</samp>
 
+- <samp>Untuk lebih jelasnya, silahkan buka project [Interface](https://github.com/suardi26/Java-OOP/tree/main/Interface/src/com/practice) di repositori suardi26/Java-OOP/Interface/src/com/practice/.</samp>
+
+- <samp>Semoga harimu menyenangkan.</samp>
+
+
 - <samp>Ketika mengimplement suatu interface, semua method yang ada pada interface harus dioverride pada subclassnya.</samp>
 
 - <samp>Sejak java 8 kita dapat membuat method interface yang memiliki body implementasi dengan menggunakan keyword 'default',</samp> 
@@ -72,4 +77,10 @@
 
 - <samp>Di interface kita dapat menerapkan jenis multiple inheritance.<samp>
   
-- <samp>Di java subclass hanya bisa mempunyai 1 superclass, namun berbeda dengan interface, sebuah subclass bisa implements lebih dari 1 interface.</samp>
+- <samp>Di java subclass hanya bisa mempunyai 1 superclass, namun berbeda dengan interface,</samp> 
+  
+  <samp>sebuah subclass bisa implements lebih dari 1 interface.</samp>
+  
+- <samp>Interface pun dapat mewarisi satu interface bahkan lebih, dengan menggunakan keyword 'extends'.</samp> 
+  
+  <samp>namun ketika class mewarisi sebuah interface maka menggunakan keyword 'implements'.</samp>
