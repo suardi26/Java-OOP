@@ -30,3 +30,29 @@
 
 ---
 
+- <samp>Keyword 'abstract' bukan access modifier, dan dapat digunakan pada class atau method.</samp>
+
+- <samp>class abstract adalah class yang masih dalam bentuk abstrak atau yang isinya hanya merupakan bentuk dasar class</samp> 
+  
+  <samp>yang akan di digunakan di setiap class turunannya. Karena bentuknya masih abstract maka class abstract tidak bisa</samp> 
+  
+  <samp>digunakan secara langsung untuk membuat object. namun isi dari class abstract dapat diturunkan ke sub classnya sehingga</samp>
+  
+  <samp>method abstrak dari superclassnya dapat dibuat/diimlpementasikan menjadi konkrit atau spesifik pada subclassnya.</samp>
+  
+- <samp>Method abstract adalah method yang tidak memiliki implementasi atau tidak ada bentuk konkritnya. dengan kata lain</samp>
+
+  <samp>method abstract adalah method yang tidak memiliki isi dan method abstract hanya dapat digunakan pada class abstract.</samp>
+  
+- <samp>Karena tidak memiliki isi maka method abstract, wajib untuk di override di subclass artinya membuat method abstract pada superclass.</samp>
+
+  <samp>memaksa class turunannya untuk override method abstract.</samp>
+  
+- <samp>Method abstract tidak boleh memiliki access modifier private.</samp>
+
+- <samp>Class abstract biasanya diturunkan pada class biasa, namun class abstract juga dapat diturunkan pada class abstract.</samp>
+
+- <samp>Untuk lebih jelasnya, silahkan buka project [Abstract Classes and Methods](https://github.com/suardi26/Java-OOP/tree/main/Abstract%20Classes%20and%20Methods/src/com) di repositori suardi26/Java-OOP/Interface/src/com/.</samp>
+
+- <samp>Semoga harimu menyenangkan.</samp>
+
