@@ -42,3 +42,34 @@
 
 ---
 
+- <samp>Sama seperti class abstract, namun interface hanya berisi method abstract (tidak memiliki block code)</samp> 
+
+  <samp>dan atribut yang constant (nilai atribut tidak bisa diubah).</samp>
+  
+- <samp>Untuk mewariskan interface dapat menggunakan keyword 'implements' bukan 'extends'.</samp>
+
+- <samp>Interface juga tidak dapat digunakan secara langsung untuk membuat object. namun isi dari interface </samp>
+  
+  <samp>dapat diturunkan ke sub classnya sehingga method abstrak dari superclassnya dapat </samp>
+  
+  <samp>dibuat/diimlpementasikan menjadi konkrit atau spesifik pada subclassnya.</samp>
+  
+- <samp>Default method pada interface adalah public dan abstract.</samp>
+
+- <samp>Default atribut interface adalah public static final.</samp>
+
+- <samp>Ketika mengimplement suatu interface, semua method yang ada pada interface harus dioverride pada subclassnya.</samp>
+
+- <samp>Sejak java 8 kita dapat membuat method interface yang memiliki body implementasi dengan menggunakan keyword 'default',</samp> 
+  
+  <samp>dengan membuat default method maka subclass tidak wajib melakukan override. Hanya diberi Opsi apakah ingin Mengoverride atau tidak.</samp>
+  
+- <samp>Di interface tidak bisa membuat constructor.<samp>
+
+- <samp>Sejak java 8 kita dapat membuat method static dalam interface.<samp>
+
+- <samp>Sejak java 9 kita dapat membuat method private dalam interface.<samp>
+
+- <samp>Di interface kita dapat menerapkan jenis multiple inheritance.<samp>
+  
+- <samp>Di java subclass hanya bisa mempunyai 1 superclass, namun berbeda dengan interface, sebuah subclass bisa implements lebih dari 1 interface.</samp>
