@@ -2,7 +2,7 @@
 
 - <samp>'toString()' method is a method in the Object class which is the default superclass when the class has no superclass.</samp>
     
-- <samp>'toString()' method is usually used to represent an object in the form of a String. which contains the package name and<s/amp>
+- <samp>'toString()' method is usually used to represent an object in the form of a String. which contains the package name and</samp>
   
   <samp>class reference of the object and the hashcode of the object.</samp>
     
@@ -16,6 +16,8 @@
   
 ---
   
-- Method 'toString()' adalah method yang terdapat di class Object yang merupakan superclass default ketika class tidak memiliki superclass.
+- <samp>Method 'toString()' adalah method yang terdapat di class Object yang merupakan superclass default ketika class tidak memiliki superclass.</samp>
     
-- Method 'toString()' biasanya digunakan untuk merepresentasikan object dalam bentuk String. yang berisi nama package dan referensi class dari object serta hashcode dari object.
+- <samp>Method 'toString()' biasanya digunakan untuk merepresentasikan object dalam bentuk String.</samp> 
+
+  <samp>yang berisi nama package dan referensi class dari object serta hashcode dari object.</samp>
