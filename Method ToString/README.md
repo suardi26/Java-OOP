@@ -24,9 +24,9 @@
 
   <samp>yang berisi nama package dan referensi class dari object serta hashcode dari object.</samp>
   
-    - <samp>Method 'toString()' secara default : packagename . className + @ + hashcode.<samp>
+    - <samp>Method 'toString()' secara default : packagename . className + @ + hashcode.</samp>
 
-- Kita dapat mengoverride method tersebut sehingga lebih mudah dibaca.
+- <samp>Kita dapat mengoverride method tersebut sehingga lebih mudah dibaca.</samp>
     
 - <samp>Untuk lebih jelasnya, silahkan buka project [Method ToString](https://github.com/suardi26/Java-OOP/tree/main/Method%20ToString/src/com) di repositori suardi26/Java-OOP/Method ToString/src/com/.</samp>
 
