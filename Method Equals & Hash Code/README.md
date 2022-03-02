@@ -28,7 +28,9 @@
     
     <samp>because the number of integers is limited to around 2 billion.</samp>
     
-- <samp>For more details, please open project [Method Equals & Hash Code](https://github.com/suardi26/Java-OOP/tree/main/Method%20Equals%20%26%20Hash%20Code/src/com/practice) in repositories suardi26/Java-OOP/Method Equals & Hash Code/src/com/practice/.</samp>
+- <samp>For more details, please open project [Method Equals & Hash Code](https://github.com/suardi26/Java-OOP/tree/main/Method%20Equals%20%26%20Hash%20Code/src/com/practice) in repositories</samp> 
+ 
+  <samp>suardi26/Java-OOP/Method Equals & Hash Code/src/com/practice/.</samp>
 
 - <samp>Have a nice day.</samp>
 
