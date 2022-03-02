@@ -9,3 +9,9 @@
 - <samp>The 'HashCode' method is an integer representation method of an object. similar to toString() which is a String representation,</samp> 
   
   <samp>hashCode is an integer representation.</samp> 
+  
+- <samp>HashCode is very useful for creating unique data structures such as Hasmap, Set, and others. because it is enough to use</samp> 
+  
+  <samp>the hashCode method to get the unique identity of an object.</samp>
+  
+- <samp>By default the hashCode method will return an integer value according to the data in memory, but we can override it if necessary.</samp> 
