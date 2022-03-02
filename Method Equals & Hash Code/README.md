@@ -36,4 +36,36 @@
 
 ---
 
+- <samp>Untuk membandingkan data primitif di java dapat menggunakan operator '==' sedangkan untuk non primitif menggunakan method 'equals()'.</samp>
+
+- <samp>Method 'equals()' secara default membandingkan dua buah object secara kesamaan posisi object di memory, bukan isi atribut dari</samp>
+  
+  <samp>kedua object. maka dari itu sebaiknya kita meng-override method equals yang ada pada class Object tersebut.</samp>
+  
+- <samp>Method 'HashCode' adalah method representasi integer suatu object. mirip dengan toString() yang merupakan representasi String,</samp> 
+ 
+  <samp>hashCode adalah representasi integer.</samp>
+  
+- <samp>HashCode sangat bermafaat untuk membuat struktur data unique seperti Hasmap, Set, dan lain-lain. karena cukup menggunakan method</samp> 
+ 
+  <samp>hashCode untuk mendapatkan identitas unique suatu object.</samp>
+  
+- <samp>Secara default method hashCode akan mengembalikan nilai integer sesuai data di memory, namun kita bisa mengoverride nya jika perlu.</samp>
+
+- <samp>Kontrak mengoverride method hashCode :</samp>
+
+  - <samp>Untuk object yang sama harus menghasilkan data integer yang sama dan jika object dipanggil berkali-kali maka</samp>
+  
+    <samp>data integer tidak berubah ubah (fix).</samp>
+    
+  - <samp>Jika ada 2 object yang sama jika dibandingkan dengan method equals, maka nilai HashCodenya juga harus sama.</samp>
+
+  - <samp>Tidak wajib hashCode berbeda jika method equals menghasilkan false, karena keterbatasan jumlah integer sekitar 2 milyar.</samp>
+
+- <samp>Untuk lebih jelasnya, silahkan buka project [Method Equals & Hash Code](https://github.com/suardi26/Java-OOP/tree/main/Method%20Equals%20%26%20Hash%20Code/src/com/practice) di repositori</samp> 
+ 
+  <samp>suardi26/Java-OOP/Method Equals & Hash Code/src/com/practice/.</samp>
+
+- <samp>Semoga harimu menyenangkan</samp>
+
 
