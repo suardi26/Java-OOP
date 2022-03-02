@@ -36,7 +36,9 @@
 
 ---
 
-- <samp>Untuk membandingkan data primitif di java dapat menggunakan operator '==' sedangkan untuk non primitif menggunakan method 'equals()'.</samp>
+- <samp>Untuk membandingkan data primitif di java dapat menggunakan operator '==' sedangkan untuk non primitif</samp> 
+ 
+  <samp>menggunakan method 'equals()'.</samp>
 
 - <samp>Method 'equals()' secara default membandingkan dua buah object secara kesamaan posisi object di memory, bukan isi atribut dari</samp>
   
