@@ -48,7 +48,7 @@
  
   <samp>hashCode adalah representasi integer.</samp>
   
-- <samp>HashCode sangat bermafaat untuk membuat struktur data unique seperti Hasmap, Set, dan lain-lain. karena cukup menggunakan method</samp> 
+- <samp>HashCode sangat bermanfaat untuk membuat struktur data unique seperti Hasmap, Set, dan lain-lain. karena cukup menggunakan method</samp> 
  
   <samp>hashCode untuk mendapatkan identitas unique suatu object.</samp>
   
