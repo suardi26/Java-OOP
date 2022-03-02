@@ -14,4 +14,8 @@
   
   <samp>the hashCode method to get the unique identity of an object.</samp>
   
-- <samp>By default the hashCode method will return an integer value according to the data in memory, but we can override it if necessary.</samp> 
+- <samp>By default the hashCode method will return an integer value according to the data in memory, but we can override it if necessary.</samp>
+
+- <samp>The contract overrides the hashCode method :</samp>
+
+  - <samp>For the same object must produce the same integer data and if the object is called many times then the integer data does not change (fix).</samp> 
