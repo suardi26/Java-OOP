@@ -21,7 +21,7 @@ public class Main {
         System.out.println(product1.toString());
 
         Product product2 = new Product(1002 ,"Sprite.");
-        System.out.println(product2.toString());
+        System.out.println(product2);
 
         
 
