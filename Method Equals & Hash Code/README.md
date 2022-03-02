@@ -18,4 +18,20 @@
 
 - <samp>The contract overrides the hashCode method :</samp>
 
-  - <samp>For the same object must produce the same integer data and if the object is called many times then the integer data does not change (fix).</samp> 
+  - <samp>For the same object must produce the same integer data and if the object is called many times</samp> 
+  
+    <samp>then the integer data does not change (fix).</samp>
+    
+  - <samp>If there are 2 objects that are the same when compared to the equals method, the HashCode value must also be the same.</samp>
+
+  - <samp>It's not mandatory to have a different hashCode if the equals method returns false,</samp> 
+    
+    <samp>because the number of integers is limited to around 2 billion.</samp>
+    
+- <samp>For more details, please open project [Method Equals & Hash Code](https://github.com/suardi26/Java-OOP/tree/main/Method%20Equals%20%26%20Hash%20Code/src/com/practice) in repositories suardi26/Java-OOP/Method Equals & Hash Code/src/com/practice/.</samp>
+
+- <samp>Have a nice day.</samp>
+
+---
+
+
