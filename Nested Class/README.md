@@ -11,3 +11,9 @@
 - <samp>For example, we will create a Duck class, and we need an Animal class, so we can create a Duck class as an Inner class</samp> 
  
   <samp>and an Animal class as an Outer class.</samp>
+  
+- <samp>Inner class is created in outer class.</samp>
+
+- <samp>When creating an inner class, we can also access the outer class.</samp>
+
+- <samp>Inner class can access the attributes and methods that exist in the outer class even though the access modifier is 'private'.</samp>
