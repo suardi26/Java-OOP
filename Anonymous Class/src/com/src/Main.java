@@ -13,7 +13,7 @@ package com.src;
     - Karena class Anonymous tidak memiliki nama maka class Anonymous tidak dapat digunakan untuk referensi suatu object/membuat object.
 
     - Anonymous class biasanya dibuat ketika tidak ingin membuat implementasi dari interface atau class abstract dalam file java yang berbeda
-      melainkan diimplementasikan secara langsung pada saat object dibuat/di instace.
+      melainkan diimplementasikan secara langsung pada saat object dibuat/di instance.
 
     - Class anonymous dapat dibuat di beberapa tempat Seperti :
 
