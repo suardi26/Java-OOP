@@ -15,7 +15,7 @@ package com.src;
     - Anonymous class biasanya dibuat ketika tidak ingin membuat implementasi dari interface atau class abstract dalam file java yang berbeda
       melainkan diimplementasikan secara langsung pada saat object dibuat/di instace.
 
-    - Class anonymous dapat dibuat di beberapa tampat Seperti :
+    - Class anonymous dapat dibuat di beberapa tempat Seperti :
 
         - Fields (Properti).
 
