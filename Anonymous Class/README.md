@@ -33,3 +33,8 @@
 - <samp>Anonymous class biasanya dibuat ketika tidak ingin membuat implementasi dari interface atau class abstract dalam file java yang</samp>
   
   <samp>berbeda melainkan diimplementasikan secara langsung pada saat object dibuat/instance.</samp>
+  
+ - <samp>Untuk lebih jelasnya, silahkan buka project [Anonymous Class](https://github.com/suardi26/Java-OOP/tree/main/Anonymous%20Class/src/com/src) di repositori suardi26/Java-OOP/Anonymous Class/src/com/practice/.</samp>
+
+- <samp>Semoga harimu menyenangkan.</samp>
+
