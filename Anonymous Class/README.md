@@ -20,4 +20,16 @@
 
 ---
 
+- <samp>Anonymous Class (class tanpa nama) adalah proses instansiasi object serta mendeklarasikan sebuah class secara langsung.</samp>
 
+- <samp>Anonymous Class termasuk Inner class, dimana Outer classnya adalah class dimana kita membuat anonymous Class tersebut.</samp>
+
+- <samp>Anonymous class dapat digunkan ketika membuat implementasi interface atau abstract class sederhana,</samp> 
+
+  <samp>tanpa harus membuat implementasi classnya.</samp>
+
+- <samp>Karena class Anonymous tidak memiliki nama maka class Anonymous tidak dapat digunakan untuk referensi suatu object/membuat object.</samp>
+
+- <samp>Anonymous class biasanya dibuat ketika tidak ingin membuat implementasi dari interface atau class abstract dalam file java yang</samp>
+  
+  <samp>berbeda melainkan diimplementasikan secara langsung pada saat object dibuat/instance.</samp>
