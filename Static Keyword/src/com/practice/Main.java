@@ -1,5 +1,13 @@
 package com.practice;
 
+//import static pada class Application.
+
+//mengakses semua attribut atau method static yang ada pada class Application.
+//import static com.practice.Application.*;
+
+//mengakses attribut static 'PROCESSORS' yang ada pada class Application.
+import static com.practice.Application.PROCESSORS;
+
 public class Main {
     
     /*
@@ -10,7 +18,7 @@ public class Main {
           bukan variabel instance dan method instance sehingga tanpa instance object, variabel dan method static dapat
           di panggil dengan bantuan nama classnya.
           
-        - Keyword 'static' dapat di gunakan pada variabel, method, class bersarang atau pun block lainnya.
+        - Keyword 'static' dapat di gunakan pada variabel, method, class bersarang (Inner Class) atau pun static block lainnya.
         
         - variabel static/variabel class adalah variabel yang dideklarasikan di dalam suatu class dan di luar dari method, 
           constructor, dan block lainnya, akan tetapi  variabel static dideklarasikan menggunakan keyword 'static'. tidak seperti variabel 
@@ -40,7 +48,11 @@ public class Main {
           dan untuk mengakses variabel dan method non static dari method non static lainnya pada class yang berbeda dapat 
           menggunakan pembuatan object (instance).
           
+        - Keyword 'import static' pada java digunakan untuk import class dimana atribut atau method static dengan modifier public dapat
+          diakses tanpa harus menuliskan nama classnya.
           
+        - Block Static hanya akan dieksekusi sekali, pada saat pertama kali object dibuat dari class atau sebelum anggota/member 
+          (attribute atau method) static pertama kali diakses.
          
           
     */
@@ -62,6 +74,16 @@ public class Main {
         // memanggil method non static, dan harus membuat object (Instance) dari class Student.
         student2.printData();
         
+        // membuat object inner class tanpa membuat object outer class.
+        Country.City city = new Country.City();
+        city.setName("London");
+        System.out.println("City : "+city.getName());
+
+        // mengakses block static terlebih dahulu sebelum mengakses member pada class Application yaitu attribute 'PROCESSORS'.
+        System.out.println("Jumlah Core Processor : "+Application.PROCESSORS);
+
+        // mengakses langsung attribut PROCESSORS tanpa harus menuliskan nama classnya, karena sudah di 'import static' dari class Application.
+        System.out.println("Jumlah Core Processor : "+PROCESSORS);
 
     }
 

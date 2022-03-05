@@ -7,6 +7,7 @@ public class Student {
     int NIM;
 
     // variabel static
+    // variabel static Biasanya ditulis dengan huruf Uppercase dan final.
     public static String collageName;
     public static int lastNIM = 1000;
     public static String footer = "= = = = = = = = = = = = = = = = = = = = =";
