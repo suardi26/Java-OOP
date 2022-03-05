@@ -6,7 +6,7 @@
   
   <samp>methods can be called with class names.</samp>
   
-- <samp>The keyword 'static' can be used for variables, methods, nested classes or other blocks.<samp>
+- <samp>The keyword 'static' can be used for variables, methods, nested classes (Inner Class) or other static blocks.<samp>
   
 - <samp>static variables/class variables are variables that are declared inside a class and outside of methods,</samp> 
   
@@ -48,7 +48,7 @@
     
   <samp>dapat di panggil dengan bantuan nama classnya.</samp>
   
-- <samp>Keyword 'static' dapat di gunakan pada variabel, method, class bersarang atau pun block lainnya.</samp>
+- <samp>Keyword 'static' dapat di gunakan pada variabel, method, class bersarang (Inner Class) atau pun static block lainnya.</samp>
   
 - <samp>variabel static/variabel class adalah variabel yang dideklarasikan di dalam suatu class dan di luar dari method,</samp> 
   
