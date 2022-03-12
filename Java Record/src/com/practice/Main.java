@@ -5,7 +5,7 @@ package com.practice;
           data.
         - Java Record biasanya digunakan pada hasil database, hasil query, dan data lainnya.
         - Java Record memiliki attribut yang diset pada parameter class yang bersifat constant/final dan memiliki akses modifer private
-          sehingga tidak dapat diakses secara langsung dan tidak dapat diubah lagi. namun dapat diubah lagi dengan method getternya.
+          sehingga tidak dapat diakses secara langsung dan tidak dapat diubah lagi. namun data dapat dipanggil dengan method getternya.
         - Untuk memanggil method getter java record hanya menuliskan nama attributnya diikuti tanda '()'.
         - Pada saat membuat record class maka secara otomatis java akan membuatkan method getter, equals, hashCode, dan toString secara
           otomatis serta constructor secara otomatis.
