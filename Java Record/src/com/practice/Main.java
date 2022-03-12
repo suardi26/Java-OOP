@@ -7,7 +7,7 @@ package com.practice;
         - Java Record memiliki attribut yang diset pada parameter class yang bersifat constant/final dan memiliki akses modifer private
           sehingga tidak dapat diakses secara langsung dan tidak dapat diubah lagi. namun dapat diubah lagi dengan method getternya.
         - Untuk memanggil method getter java record hanya menuliskan nama attributnya diikuti tanda '()'.
-        - Pada saat membuat record class maka secara otomatis java akan membuatkan method getter, equals, hashCode, dan toSting secara
+        - Pada saat membuat record class maka secara otomatis java akan membuatkan method getter, equals, hashCode, dan toString secara
           otomatis serta constructor secara otomatis.
         - Pada saat membuat record class maka secara otomatis akan mengekstens class java.lang.Record, sehingga tidak dapat
           mengextends class lain, tetapi dapat mengimplement interface.
