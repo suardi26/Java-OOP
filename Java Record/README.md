@@ -30,7 +30,7 @@
 
 ---
 
-- <samp>Java Record digunakan pembuatan class yang berisikan data yang memiliki method getter,equals,hashCode dan toString method.</samp>
+- <samp>Java Record digunakan untuk pembuatan class yang berisikan data yang memiliki method getter,equals,hashCode dan toString method.</samp>
 
 - <samp>Java Record digunakan untuk menyimpan data dan bersifat immutability (tidak dapat diubah) hal ini untuk memastikan validasi data.</samp>
 
