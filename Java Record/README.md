@@ -12,8 +12,12 @@
 
 - To call the java record getter method, just write the attribute name followed by '()'.
 
-- When creating a record class, Java will automatically generate getter, equals, hashCode, and toString methods and constructors automatically.
+- When creating a record class, Java will automatically generate getter, equals, hashCode, 
 
-- When creating a record class, it will automatically extend the java.lang.Record class, so it cannot extend other classes, but can implement interfaces.
+  and toString methods and constructors automatically.
+
+- When creating a record class, it will automatically extend the java.lang.Record class, 
+
+  so it cannot extend other classes, but can implement interfaces.
        
 - By default, the record class will create a constructor automatically according to the record/data definition in the class parameter.
