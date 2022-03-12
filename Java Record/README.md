@@ -36,9 +36,9 @@
 
 - <samp>Java Record biasanya digunakan pada hasil database, hasil query, dan data lainnya.</samp>
 
-- <samp>Java Record memiliki attribut yang diset pada parameter class yang bersifat constant/final dan memiliki akses modifer private sehingga</samp> 
+- <samp>Java Record memiliki attribut yang diset pada parameter class yang bersifat constant/final dan memiliki akses modifer private</samp> 
 
-  <samp>tidak dapat diakses secara langsung dan tidak dapat diubah lagi. namun data dapat dipanggil dengan method getternya.</samp>
+  <samp>sehingga tidak dapat diakses secara langsung dan tidak dapat diubah lagi. namun data dapat dipanggil dengan method getternya.</samp>
 
 - <samp>Untuk memanggil method getter java record hanya menuliskan nama attributnya diikuti tanda '()'.</samp>
 
@@ -50,7 +50,9 @@
 
   <samp>mengextends class lain, tetapi dapat mengimplement interface.</samp>
        
-- <samp>Secara default, class record akan membuat constructor secara otomatis sesuai dengan defenisi record/data yang ada pada class parameter.</samp>
+- <samp>Secara default, class record akan membuat constructor secara otomatis sesuai dengan defenisi record/data</samp> 
+
+  <samp>yang ada pada class parameter.</samp>
 
 - <samp>Untuk lebih jelasnya, silahkan buka project [Java Record](https://github.com/suardi26/Java-OOP/tree/main/Java%20Record/src/com/practice) di repositori suardi26/Java-OOP/Java Record/src/com/practice/.</samp>
 
