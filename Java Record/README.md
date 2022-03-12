@@ -28,7 +28,7 @@
 
 - <samp>Have a nice day.</samp>
 
-...
+---
 
 - <samp>Java Record digunakan pembuatan class yang berisikan data yang memiliki method getter,equals,hashCode dan toString method.</samp>
 
