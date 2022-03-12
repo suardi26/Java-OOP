@@ -20,4 +20,40 @@
 
   <samp>so it cannot extend other classes, but can implement interfaces.</samp>
        
-- <samp>By default, the record class will create a constructor automatically according to the record/data definition in the class parameter.</samp>
+- <samp>By default, the record class will create a constructor automatically according to the record/data definition</samp> 
+ 
+  <samp>in the class parameter.</samp>
+
+- <samp>For more details, please open project [Java Record](https://github.com/suardi26/Java-OOP/tree/main/Java%20Record/src/com/practice) in repositories suardi26/Java-OOP/Java Record/src/com/practice/.</samp>
+
+- <samp>Have a nice day.</samp>
+
+...
+
+- <samp>Java Record digunakan pembuatan class yang berisikan data yang memiliki method getter,equals,hashCode dan toString method.</samp>
+
+- <samp>Java Record digunakan untuk menyimpan data dan bersifat immutability (tidak dapat diubah) hal ini untuk memastikan validasi data.</samp>
+
+- <samp>Java Record biasanya digunakan pada hasil database, hasil query, dan data lainnya.</samp>
+
+- <samp>Java Record memiliki attribut yang diset pada parameter class yang bersifat constant/final dan memiliki akses modifer private sehingga</samp> 
+
+  <samp>tidak dapat diakses secara langsung dan tidak dapat diubah lagi. namun data dapat dipanggil dengan method getternya.</samp>
+
+- <samp>Untuk memanggil method getter java record hanya menuliskan nama attributnya diikuti tanda '()'.</samp>
+
+- <samp>Pada saat membuat record class maka secara otomatis java akan membuatkan method getter, equals, hashCode, dan</samp> 
+
+  <samp>toString secara otomatis serta constructor secara otomatis.</samp>
+
+- <samp>Pada saat membuat record class maka secara otomatis akan mengekstens class java.lang.Record, sehingga tidak dapat</samp> 
+
+  <samp>mengextends class lain, tetapi dapat mengimplement interface.</samp>
+       
+- <samp>Secara default, class record akan membuat constructor secara otomatis sesuai dengan defenisi record/data yang ada pada class parameter.</samp>
+
+- <samp>Untuk lebih jelasnya, silahkan buka project [Java Record](https://github.com/suardi26/Java-OOP/tree/main/Java%20Record/src/com/practice) di repositori suardi26/Java-OOP/Java Record/src/com/practice/.</samp>
+
+- <samp>Semoga harimu menyenangkan.</samp>
+
+
