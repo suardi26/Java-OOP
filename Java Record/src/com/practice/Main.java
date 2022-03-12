@@ -1,6 +1,6 @@
 package com.practice;
     /*
-        - Java Record digunakan pembuatan class yang berisikan data yang memiliki method getter,equals,hashCode dan toString method.
+        - Java Record digunakan untuk pembuatan class yang berisikan data yang memiliki method getter,equals,hashCode dan toString.
         - Java Record digunakan untuk menyimpan data dan bersifat immutability (tidak dapat diubah) hal ini untuk memastikan validasi
           data.
         - Java Record biasanya digunakan pada hasil database, hasil query, dan data lainnya.
