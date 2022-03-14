@@ -44,7 +44,9 @@
   
   <samp>karena tujuan dari enum class bukan untuk di instansiasi secara bebas.</samp>
 
-- <samp>Saat membuat constructor di enum, maka semua opsi nilai constanta enum wajib mamanggil method constructor tersebut misalnya parameter.</samp>
+- <samp>Saat membuat constructor di enum, maka semua opsi nilai constanta enum wajib mamanggil</samp> 
+ 
+  <samp>method constructor tersebut misalnya parameter.</samp>
 
 - <samp>Enum dapat dibuat didalam class atau didalam file terpisah.</samp>
 
