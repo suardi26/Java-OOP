@@ -27,3 +27,38 @@
 - <samp>When creating an exception, you must create a class that extends the Throwable class or its derivatives.</samp>
 
 - <samp>When creating a runtime exception class, it is mandatory to extend the RuntimeException class.</samp>
+
+- <samp>There are several keywords in java in terms of Exception Handling :</samp>
+
+  - <samp>Try.</samp>
+
+    <samp>Try is a keyword that is used to try to run a program block that has the potential to cause an error at runtime.</samp> 
+
+    <samp>This keyword is paired with the catch or finally keyword.</samp>
+
+  - <samp>Catch.</samp>
+
+    <samp>Catch is the keyword used to catch errors that occur from the try block and can be displayed in this catch block.</samp>
+
+  - <samp>Finally.</samp>
+
+    <samp>Finally is the keyword used to run the program block that will be executed after the program block in the try and catch.</samp> 
+
+    <samp>The program block in finally will be executed when there is an error or no error.</samp>
+
+  - <samp>Throw</samp>
+
+    <samp>throw is the keyword used to throw a manually generated error message.</samp>
+
+    <samp>format :  </samp>
+    
+    ```java 
+
+    throw new Exception("Error Occurred!!");
+
+    ```
+  - <samp>Throws</samp>
+
+    <samp>throws is a keyword used in a method that might generate an error, so to call the method,</samp> 
+ 
+    <samp>an exception handling (try-catch) must be done first.</samp>
