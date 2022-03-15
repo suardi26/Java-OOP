@@ -77,13 +77,63 @@
 
 - <samp>Pada saat menggunakan Checked Exception pada sebuah method maka wajib menambahkan keyword 'throws' dan nama class exception.</samp>
 
-- Compiler java tidak mendeteksi error walaupun kita tidak menggunakan try-catch expression, pada saat memanggil method yang menambahkan runtime exception serta di method tidak wajib menambahkan keyword 'throws' dan class runtime exception jika jenis exception tersebut adalah runtime exception bukan checked exception.
+- <samp>Compiler java tidak mendeteksi error walaupun kita tidak menggunakan try-catch expression, pada saat memanggil method</samp> 
+  
+  <samp>yang menambahkan runtime exception serta di method tidak wajib menambahkan keyword 'throws' dan class</samp> 
+  
+  <samp>runtime exception jika jenis exception tersebut adalah runtime exception bukan checked exception.</samp>
 
-- Meskipun runtime exception tidak wajib menggunakan try-catch expression namun lebih baik menggunakan try-catch untuk menghindari program berhenti.
+- <samp>Meskipun runtime exception tidak wajib menggunakan try-catch expression namun lebih baik</samp> 
 
-- Ketika runtime exception tidak menggunakan try-catch maka terlihat tidak berguna karena tetap program akan berhenti, namun penggunaan runtime exception tanpa menggunakan try-catch dapat membuat kode lebih rapi apalagi pada saat membuat program yang besar, dan untuk errornya dapat di handling sendiri di suatu tempat (error handler).
+  <samp>menggunakan try-catch untuk menghindari program berhenti.</samp>
 
-- Pada saat membuat exception, maka harus membuat class yang extends class Throwable atau turunan-turunannya.
+- <samp>Ketika runtime exception tidak menggunakan try-catch maka terlihat tidak berguna karena tetap program akan berhenti,</samp> 
+ 
+  <samp>namun penggunaan runtime exception tanpa menggunakan try-catch dapat membuat kode lebih rapi apalagi pada saat membuat</samp> 
+  
+  <samp>program yang besar, dan untuk errornya dapat di handling sendiri di suatu tempat (error handler).</samp>
 
-- Pada saat membuat class runtime exception, wajib extends class RuntimeException.
+- <samp>Pada saat membuat exception, maka harus membuat class yang extends class Throwable atau turunan-turunannya.</samp>
 
+- <samp>Pada saat membuat class runtime exception, wajib extends class RuntimeException.</samp>
+
+- <samp> Ada beberapa keywword pada java dalam hal Exception Handling :</samp>
+
+    - <samp>Try</samp>
+
+      <samp>try adalah keyword yang digunakan untuk mencoba menjalankan block program yang berpotensi menyebabkan error pada saat runtime</samp> 
+
+      <samp>keyword ini dipasangkan dengan keyword catch atau finally.</samp>
+
+    - <samp>Catch</samp>
+
+      <samp>Catch adalah keyword yang digunakan untuk menangkap kesalahan yang terjadi dari block try dan dapat</samp> 
+ 
+      <samp>ditampilkan pada block catch ini.</samp>
+
+    - <samp>Finally</samp>
+
+      <samp>Finally adalah keyword yang digunakan untuk menjalankan block program yang akan dieksekusi setelah block program yang ada</samp> 
+      
+      <samp>di dalam try dan catch. Block program yang ada di finally akan dieksekusi ketika ada kesalahan maupun tidak ada kesalahan.</samp>
+
+    - <samp>throw</samp>
+
+      <samp>throw adalah keyword yang digunakan untuk melemparkan suatu pesan kesalahan yang dibuat secara manual.</samp> 
+
+      <samp>format :</samp>
+      
+       ```java 
+
+      throw new Exception("Kesalahan Terjadi !!");
+
+      ```
+    - <samp>throws</samp>
+
+      <samp>throws adalah keyword yang digunakan pada suatu method yang mungkin menghasilkan suatu kesalahan sehingga untuk memanggil</samp> 
+
+      <samp>method tersebut maka harus dilakukan handling exception (try-catch) terlebih dahulu.</samp>
+      
+- <samp>Untuk lebih jelasnya, silahkan buka project [Class Exception](https://github.com/suardi26/Java-OOP/tree/main/Class%20Exception/src/com/practice) di repositori suardi26/Java-OOP/Class Exception/src/com/practice/.</samp>
+
+- <samp>Semoga harimu menyenangkan.</samp>
