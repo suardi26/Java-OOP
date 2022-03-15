@@ -45,6 +45,13 @@ package com.practice;
     - Ketika terjadi kesalahan pada block try maka block catch akan dieksekusi tapi jika tidak terdapat kesalahan pada block try maka
       block catch tidak akan dieksekusi.
 
+    - Error adalah jenis exception yang terakhir.
+
+    - Error merupakan sebuah class di java yang bisa di tambahkan try-catch namun tidak direkomendasikan untuk menambahkan try-catch
+      , karena exception jenis Error biasanya digunakan pada kesalahan yang serius dan direkomendasikan untuk mematikan program.
+
+    - Error class dapat diturunkan pada subclass yang dibuat.
+
     - Ada beberapa keywword pada java dalam hal Exception Handling.
             1 . Try
                 try adalah keyword yang digunakan untuk mencoba menjalankan block program yang berpotensi menyebabkan error pada saat
@@ -131,11 +138,18 @@ public class Main {
             System.out.println("= = = = = = = = = = = = = = = = =");
         }
 
-
         // Pemanggilan method dengan menambahkan runtime exception tidak wajib menggunakan try-catch expression.
         Login login6 = new Login(null, null);
         ValidationRuntimeException.validate2(login6);
         System.out.println("Username And Password Valid.");
         // terjadi error : karena errornya tidak di Handling.
+
+        // Pemanggilan method dengan menambahkan Error exception tidak direkomendasikan menggunkan try-catch sehingga
+        // program dapat berhenti karena mengalami kesalahan yang serius.
+
+        ValidationErrorException.validate3(null,null);
+        System.out.println("Username And Password Valid.");
+        // terjadi error.
+
     }
 }
