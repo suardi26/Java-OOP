@@ -69,13 +69,13 @@
 
 ---
 
-- Exception terbagi menjadi 3 yaitu : Checked Exception, Runtime Exception, Error.
+- <samp>Exception terbagi menjadi 3 yaitu : Checked Exception, Runtime Exception, Error.</samp>
 
-- Checked Exception wajib menggunakan try-catch expression.
+- <samp>Checked Exception wajib menggunakan try-catch expression.</samp>
 
-- Runtime Exception adalah jenis exception tidak wajib menggunakan try-catch expression.
+- <samp>Runtime Exception adalah jenis exception tidak wajib menggunakan try-catch expression.</samp>
 
-- Pada saat menggunakan Checked Exception pada sebuah method maka wajib menambahkan keyword 'throws' dan nama class exception.
+- <samp>Pada saat menggunakan Checked Exception pada sebuah method maka wajib menambahkan keyword 'throws' dan nama class exception.</samp>
 
 - Compiler java tidak mendeteksi error walaupun kita tidak menggunakan try-catch expression, pada saat memanggil method yang menambahkan runtime exception serta di method tidak wajib menambahkan keyword 'throws' dan class runtime exception jika jenis exception tersebut adalah runtime exception bukan checked exception.
 
