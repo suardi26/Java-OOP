@@ -28,6 +28,14 @@
 
 - <samp>When creating a runtime exception class, it is mandatory to extend the RuntimeException class.</samp>
 
+- <samp>Error is the last type of exception.</samp>
+
+- <samp>Error is a class in java that can be added to try-catch but it is not recommended to add a try-catch, because exceptions of</samp> 
+
+  <samp>the Error type are usually used for serious errors and are recommended to kill the program.</samp>
+
+- <samp>Class errors can be inherited in the created subclasses.</samp>
+
 - <samp>There are several keywords in java in terms of Exception Handling :</samp>
 
   - <samp>Try.</samp>
@@ -97,7 +105,15 @@
 
 - <samp>Pada saat membuat class runtime exception, wajib extends class RuntimeException.</samp>
 
-- <samp> Ada beberapa keywword pada java dalam hal Exception Handling :</samp>
+- <samp>Error adalah jenis exception yang terakhir.</samp>
+
+- <samp>Error merupakan sebuah class di java yang bisa di tambahkan try-catch namun tidak direkomendasikan untuk menambahkan try-catch,</samp> 
+
+  <samp>karena exception jenis Error biasanya digunakan pada kesalahan yang serius dan direkomendasikan untuk mematikan program.</samp>
+
+- <samp>Error class dapat diturunkan pada subclass yang dibuat.</samp>
+
+- <samp>Ada beberapa keywword pada java dalam hal Exception Handling :</samp>
 
     - <samp>Try</samp>
 
