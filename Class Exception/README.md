@@ -22,7 +22,7 @@
   
   <samp>runtime exceptions without using try-catch can make the code neater, especially when creating large programs,</samp> 
   
-  <samp>and the error can be handled by yourself in one place. place (error handler).</samp>
+  <samp>and the error can be handled by yourself in one place(error handler).</samp>
 
 - <samp>When creating an exception, you must create a class that extends the Throwable class or its derivatives.</samp>
 
@@ -62,3 +62,28 @@
     <samp>throws is a keyword used in a method that might generate an error, so to call the method,</samp> 
  
     <samp>an exception handling (try-catch) must be done first.</samp>
+    
+- <samp>For more details, please open project [Class Exception](https://github.com/suardi26/Java-OOP/tree/main/Class%20Exception/src/com/practice) in repositories suardi26/Java-OOP/Class Exception/src/com/practice/.</samp>
+
+- <samp>Have a nice day.</samp>
+
+---
+
+- Exception terbagi menjadi 3 yaitu : Checked Exception, Runtime Exception, Error.
+
+- Checked Exception wajib menggunakan try-catch expression.
+
+- Runtime Exception adalah jenis exception tidak wajib menggunakan try-catch expression.
+
+- Pada saat menggunakan Checked Exception pada sebuah method maka wajib menambahkan keyword 'throws' dan nama class exception.
+
+- Compiler java tidak mendeteksi error walaupun kita tidak menggunakan try-catch expression, pada saat memanggil method yang menambahkan runtime exception serta di method tidak wajib menambahkan keyword 'throws' dan class runtime exception jika jenis exception tersebut adalah runtime exception bukan checked exception.
+
+- Meskipun runtime exception tidak wajib menggunakan try-catch expression namun lebih baik menggunakan try-catch untuk menghindari program berhenti.
+
+- Ketika runtime exception tidak menggunakan try-catch maka terlihat tidak berguna karena tetap program akan berhenti, namun penggunaan runtime exception tanpa menggunakan try-catch dapat membuat kode lebih rapi apalagi pada saat membuat program yang besar, dan untuk errornya dapat di handling sendiri di suatu tempat (error handler).
+
+- Pada saat membuat exception, maka harus membuat class yang extends class Throwable atau turunan-turunannya.
+
+- Pada saat membuat class runtime exception, wajib extends class RuntimeException.
+
