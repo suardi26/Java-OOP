@@ -12,6 +12,8 @@
   
   <samp>of the StackTraceElement object from the getStackTrace() method in the Throwable class.</samp>
   
-- <samp>For more details, please open project [StackTraceElement Class](https://github.com/suardi26/Java-OOP/tree/main/StackTraceElement%20Class/src/com/practice) in repositories suardi26/Java-OOP/StackTraceElement Class/src/com/practice/.</samp>
+- <samp>For more details, please open project [StackTraceElement Class](https://github.com/suardi26/Java-OOP/tree/main/StackTraceElement%20Class/src/com/practice) in repositories</samp> 
+
+  <samp>suardi26/Java-OOP/StackTraceElement Class/src/com/practice/.</samp>
 
 - <samp>Have a nice day.</samp>
