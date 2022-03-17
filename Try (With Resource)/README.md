@@ -29,3 +29,7 @@
   <samp>akan ditutup secara otomatis pada saat try-catch selesai dieksekusi.</samp>
 
 - <samp>Pada saat kita menggunakan fitur ini maka resource wajib menggunakan interface AutoCloseable ataupun turunannya.</samp>
+
+- <samp>Untuk lebih jelasnya, silahkan buka project [Try (With Resource)](https://github.com/suardi26/Java-OOP/tree/main/Try%20(With%20Resource)/src/com/practice) di repositori suardi26/Java-OOP/Try (With Resource)/src/com/practice/.</samp>
+
+- <samp>Semoga harimu menyenangkan.</samp>
