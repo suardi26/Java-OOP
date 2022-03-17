@@ -1,0 +1,17 @@
+## Try (With Resource)
+
+- <samp>Try with resources is a try statement that declares one or more resources in it. Resources are objects that must</samp> 
+
+  <samp>be closed after the last statement is executed.</samp>
+
+- <samp>In java 7 there is a feature called try with resource.</samp>
+
+- <samp>Try with resource is a way to write a resource/create an object in the try block and it will be closed</samp> 
+
+  <samp>automatically when the try-catch finishes executing.</samp>
+
+- <samp>When we use this feature, the resource must use the AutoCloseable interface or its derivatives.</samp>
+
+- <samp>For more details, please open project [Try (With Resource)](https://github.com/suardi26/Java-OOP/tree/main/Try%20(With%20Resource)/src/com/practice) in repositories suardi26/Java-OOP/Try (With Resource)/src/com/practice/.</samp>
+
+- <samp>Have a nice day.</samp>
