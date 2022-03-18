@@ -21,3 +21,19 @@
 - <samp>Have a nice day.</samp>
 
 ---
+
+- Reflection adalah kemampuan melihat struktur aplikasi pada saat berjalan.
+
+- Reflection memungkinkan kita memeriksa/melihat serta memodifikasi atribut dari class pada saat runtime.
+
+- Reflection tidak hanya digunakan untuk memeriksa/melihat informasi dari class saja, namun dapat juga digunakan 
+
+  untuk memeriksa informasi dari interface, fields, serta method pada saat runtime.
+
+- Reflection biasanya sangat berguna pada saat kita membuat library ataupun framework, sehingga bisa meng-otomatisasi pekerjaan.
+
+- Untuk mengakses reflection class dari sebuah object, kita bisa menggunakan method getClass()
+  
+  yang merupakan bawaan dari class object atau namaClass.class.
+
+- Method getClass mengembalikan representasi class atau informasi pada class pada saat runtime dari sebuah object.
