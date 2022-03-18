@@ -31,3 +31,9 @@
   - <samp>@FunctionalInterface, to indicate that the class can be created as a lambda expression.</samp>
 
   - <samp>etc.</samp>
+
+- <samp>For more details, please open project [Annotation](https://github.com/suardi26/Java-OOP/tree/main/Annotation/src/com/practice) in repositories suardi26/Java-OOP/Annotation/src/com/practice/.</samp>
+
+- <samp>Have a nice day.</samp>
+
+---
