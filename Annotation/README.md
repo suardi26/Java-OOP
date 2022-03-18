@@ -38,37 +38,37 @@
 
 ---
 
-- Annotation merupakan suatu tag untuk memberikan informasi pada suatu code yang dibuat.
+- <samp>Annotation merupakan suatu tag untuk memberikan informasi pada suatu code yang dibuat.</samp>
 
-- Annotation merupakan penambahan metadata ke kode program yang kita buat.
+- <samp>Annotation merupakan penambahan metadata ke kode program yang kita buat.</samp>
 
-- Annotation biasanya digunakan untuk membuat library/framework.
+- <samp>Annotation biasanya digunakan untuk membuat library/framework.</samp>
 
-- Annotation dapat diakeses menggunakan reflection.
+- <samp>Annotation dapat diakeses menggunakan reflection.</samp>
 
-- Pada saat ingin membuat Annotation, dapat menggunakan keyword @interface.
+- <samp>Pada saat ingin membuat Annotation, dapat menggunakan keyword @interface.</samp>
 
-- Annotation memiliki method dengan tipe data sederhana, dan bisa memiliki default value.
+- <samp>Annotation memiliki method dengan tipe data sederhana, dan bisa memiliki default value.</samp>
 
-- Attribute Annotation :
+- <samp>Attribute Annotation :</samp>
        
- - @Target => digunakan untuk menginformasikan annotation dapat digunakan pada class, method, field, dll. 
+ - <samp>@Target => digunakan untuk menginformasikan annotation dapat digunakan pada class, method, field, dll.</samp> 
  
-   @Target memiliki value array atau memiliki nilai lebih dari satu.
+   <samp>@Target memiliki value array atau memiliki nilai lebih dari satu.</samp>
 
- - @Retention => digunakan untuk menginformasikan bahwa annotation disimpan di hasil kompilasi, dan apakah bisa dibaca oleh reflection ?.
+ - <samp>@Retention => digunakan untuk menginformasikan bahwa annotation disimpan di hasil kompilasi, dan apakah bisa dibaca</samp> 
   
-   @Retention hanya memiliki satu value.
+   <samp>oleh reflection ?. @Retention hanya memiliki satu value.</samp>
 
-- Beberapa contoh Annotation yang disediakan oleh java. seperti :
+- <samp>Beberapa contoh Annotation yang disediakan oleh java. seperti :</samp>
  
- - @Override digunakan untuk menandai bahwa suatu method mengoverride method dari superclassnya.
+ - <samp>@Override digunakan untuk menandai bahwa suatu method mengoverride method dari superclassnya.</samp>
 
- - @Deprecated digunakan untuk menandai bahwa method tersebut tidak direkomendasikan lagi untuk digunakan.
+ - <samp>@Deprecated digunakan untuk menandai bahwa method tersebut tidak direkomendasikan lagi untuk digunakan.</samp>
 
- - @FunctionalInterface, untuk menandai bahwa class tersebut bisa dibuat sebagai lamda expression.
+ - <samp>@FunctionalInterface, untuk menandai bahwa class tersebut bisa dibuat sebagai lamda expression.</samp>
 
- - dll.
+ - <samp>dll.</samp>
 
 
 
