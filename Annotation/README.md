@@ -52,23 +52,23 @@
 
 - <samp>Attribute Annotation :</samp>
        
- - <samp>@Target => digunakan untuk menginformasikan annotation dapat digunakan pada class, method, field, dll.</samp> 
- 
-   <samp>@Target memiliki value array atau memiliki nilai lebih dari satu.</samp>
+       - <samp>@Target => digunakan untuk menginformasikan annotation dapat digunakan pada class, method, field, dll.</samp> 
 
- - <samp>@Retention => digunakan untuk menginformasikan bahwa annotation disimpan di hasil kompilasi, dan apakah bisa dibaca</samp> 
-  
-   <samp>oleh reflection ?. @Retention hanya memiliki satu value.</samp>
+         <samp>@Target memiliki value array atau memiliki nilai lebih dari satu.</samp>
+
+       - <samp>@Retention => digunakan untuk menginformasikan bahwa annotation disimpan di hasil kompilasi, dan apakah bisa dibaca</samp> 
+
+         <samp>oleh reflection ?. @Retention hanya memiliki satu value.</samp>
 
 - <samp>Beberapa contoh Annotation yang disediakan oleh java. seperti :</samp>
  
- - <samp>@Override digunakan untuk menandai bahwa suatu method mengoverride method dari superclassnya.</samp>
+       - <samp>@Override digunakan untuk menandai bahwa suatu method mengoverride method dari superclassnya.</samp>
 
- - <samp>@Deprecated digunakan untuk menandai bahwa method tersebut tidak direkomendasikan lagi untuk digunakan.</samp>
+       - <samp>@Deprecated digunakan untuk menandai bahwa method tersebut tidak direkomendasikan lagi untuk digunakan.</samp>
 
- - <samp>@FunctionalInterface, untuk menandai bahwa class tersebut bisa dibuat sebagai lamda expression.</samp>
+       - <samp>@FunctionalInterface, untuk menandai bahwa class tersebut bisa dibuat sebagai lamda expression.</samp>
 
- - <samp>dll.</samp>
+       - <samp>dll.</samp>
 
 
 
