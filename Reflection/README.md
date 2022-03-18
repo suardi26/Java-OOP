@@ -22,18 +22,22 @@
 
 ---
 
-- Reflection adalah kemampuan melihat struktur aplikasi pada saat berjalan.
+- <samp>Reflection adalah kemampuan melihat struktur aplikasi pada saat berjalan.</samp>
 
-- Reflection memungkinkan kita memeriksa/melihat serta memodifikasi atribut dari class pada saat runtime.
+- <samp>Reflection memungkinkan kita memeriksa/melihat serta memodifikasi atribut dari class pada saat runtime.</samp>
 
-- Reflection tidak hanya digunakan untuk memeriksa/melihat informasi dari class saja, namun dapat juga digunakan 
+- <samp>Reflection tidak hanya digunakan untuk memeriksa/melihat informasi dari class saja, namun dapat juga digunakan</samp> 
 
-  untuk memeriksa informasi dari interface, fields, serta method pada saat runtime.
+  <samp>untuk memeriksa informasi dari interface, fields, serta method pada saat runtime.</samp>
 
-- Reflection biasanya sangat berguna pada saat kita membuat library ataupun framework, sehingga bisa meng-otomatisasi pekerjaan.
+- <samp>Reflection biasanya sangat berguna pada saat kita membuat library ataupun framework, sehingga bisa meng-otomatisasi pekerjaan.</samp>
 
-- Untuk mengakses reflection class dari sebuah object, kita bisa menggunakan method getClass()
+- <samp>Untuk mengakses reflection class dari sebuah object, kita bisa menggunakan method getClass()</samp>
   
-  yang merupakan bawaan dari class object atau namaClass.class.
+  <samp>yang merupakan bawaan dari class object atau namaClass.class.</samp>
 
-- Method getClass mengembalikan representasi class atau informasi pada class pada saat runtime dari sebuah object.
+- <samp>Method getClass mengembalikan representasi class atau informasi pada class pada saat runtime dari sebuah object.</samp>
+
+- <samp>Untuk lebih jelasnya, silahkan buka project [Reflection](https://github.com/suardi26/Java-OOP/tree/main/Reflection/src/com/practice) di repositori suardi26/Java-OOP/Reflection/src/com/practice/.</samp>
+
+- <samp>Semoga harimu menyenangkan.</samp>
