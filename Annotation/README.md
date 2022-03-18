@@ -70,5 +70,7 @@
 
   - <samp>dll.</samp>
 
+- <samp>Untuk lebih jelasnya, silahkan buka project [Annotation](https://github.com/suardi26/Java-OOP/tree/main/Annotation/src/com/practice) di repositori suardi26/Java-OOP/Annotation/src/com/practice/.</samp>
 
+- <samp>Semoga harimu menyenangkan.</samp>
 
