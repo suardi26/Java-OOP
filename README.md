@@ -46,6 +46,8 @@
 
 - [Enum Class](https://github.com/suardi26/Java-OOP/tree/main/Enum%20Class/src/com/practice)
 
+- [Class Exception](https://github.com/suardi26/Java-OOP/tree/main/Class%20Exception/src/com/practice)
+
 
 
 
