@@ -36,3 +36,7 @@
 
 - [Interface](https://github.com/suardi26/Java-OOP/tree/main/Interface/src/com/practice)
 
+- [Method toString](https://github.com/suardi26/Java-OOP/tree/main/Method%20ToString/src/com)
+
+
+
