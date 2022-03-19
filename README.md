@@ -42,6 +42,8 @@
 
 - [Nested Class](https://github.com/suardi26/Java-OOP/tree/main/Nested%20Class/src/com/practice)
 
+- [Anonymous Class](https://github.com/suardi26/Java-OOP/tree/main/Anonymous%20Class/src/com/src)
+
 - [Java Record](https://github.com/suardi26/Java-OOP/tree/main/Java%20Record/src/com/practice)
 
 - [Enum Class](https://github.com/suardi26/Java-OOP/tree/main/Enum%20Class/src/com/practice)
