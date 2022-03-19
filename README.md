@@ -42,5 +42,7 @@
 
 - [Nested Class](https://github.com/suardi26/Java-OOP/tree/main/Nested%20Class/src/com/practice)
 
+- [Java Record](https://github.com/suardi26/Java-OOP/tree/main/Java%20Record/src/com/practice)
+
 
 
