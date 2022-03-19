@@ -65,7 +65,7 @@
 
  - <a href="https://www.jetbrains.com/idea/download/?from=SafeEyes#section=windows" target="blank"><img align="center" src="https://img.icons8.com/material/144/000000/intellij-idea.png" height="30" width="30" />&nbsp;&nbsp;&nbsp;IntelliJ IDEA Community Edition 2021.2.3.</a>
 
-- <a href="https://www.jetbrains.com/idea/download/?from=SafeEyes#section=windows" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/452/visual-studio.png" height="30" width="30" />&nbsp;&nbsp;&nbsp;IntelliJ IDEA Community Edition 2021.2.3.</a>
+- <a href="https://code.visualstudio.com/download" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/452/visual-studio.png" height="30" width="30" />&nbsp;&nbsp;&nbsp;Visual Studio Code Version 1.65.</a>
 
 ### Social Media :
 <p align="left">
