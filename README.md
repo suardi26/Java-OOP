@@ -40,7 +40,7 @@
 
 - [Method Equals & Hash Code](https://github.com/suardi26/Java-OOP/tree/main/Method%20Equals%20%26%20Hash%20Code/src/com/practice)
 
-
+- [Nested Class](https://github.com/suardi26/Java-OOP/tree/main/Nested%20Class/src/com/practice)
 
 
 
