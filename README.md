@@ -52,6 +52,6 @@
 
 - [Try (With Resource)](https://github.com/suardi26/Java-OOP/tree/main/Try%20(With%20Resource)/src/com/practice)
 
-- [Annotation)](https://github.com/suardi26/Java-OOP/tree/main/Annotation/src/com/practice)
+- [Annotation](https://github.com/suardi26/Java-OOP/tree/main/Annotation/src/com/practice)
 
 
