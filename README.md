@@ -44,5 +44,9 @@
 
 - [Java Record](https://github.com/suardi26/Java-OOP/tree/main/Java%20Record/src/com/practice)
 
+- [Enum Class](https://github.com/suardi26/Java-OOP/tree/main/Enum%20Class/src/com/practice)
+
+
+
 
 
