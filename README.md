@@ -34,3 +34,5 @@
 
 - [Abstract Classes and Methods](https://github.com/suardi26/Java-OOP/tree/main/Abstract%20Classes%20and%20Methods/src/com)
 
+- [Interface](https://github.com/suardi26/Java-OOP/tree/main/Interface/src/com/practice)
+
