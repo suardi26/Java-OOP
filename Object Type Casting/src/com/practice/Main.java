@@ -49,7 +49,9 @@ package com.practice;
     - untuk DownCasting sebelum melakukan casts, kita dapat melakukan type check (Pengecekan type data), apakah sebuah object dibuat dari 
       class/tipe data yang ditentukan.
 
-    - Hasil Operator 'instanceof' adalah boolean, true jika object tersebut dibuat dari class/tipe data yang ditentukan dan false jika bukan. 
+    - Hasil Operator 'instanceof' adalah boolean, true jika object tersebut dibuat dari class/tipe data yang ditentukan dan false jika bukan.
+
+    - Keyword 'instanceof' dapat juga digunakan untuk memeriksa apakah suatu object adalah turunan dari class atau interface tertentu.
      
 */
 
