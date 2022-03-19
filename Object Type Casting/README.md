@@ -21,6 +21,8 @@
 - <samp>The result of the 'instanceof' operator is a boolean, true if the object is</samp> 
  
   <samp>created from the specified class/data type and false otherwise.</samp>
+  
+-  <samp>The keyword 'instanceof' can also be used to check whether an object is an instance of a particular class or interface.</samp>
 
 - <samp>For more details, please open project [Object Type Casting](https://github.com/suardi26/Java-OOP/tree/main/Object%20Type%20Casting/src/com/practice) in repositories</samp>
   
@@ -51,6 +53,8 @@
 - <samp>Hasil Operator 'instanceof' adalah boolean, true jika object tersebut dibuat dari</samp> 
   
   <samp>class/tipe data yang ditentukan dan false jika bukan.</samp>  
+  
+- <samp>Keyword 'instanceof' dapat juga digunakan untuk memeriksa apakah suatu object adalah turunan dari class atau interface tertentu.<samp>
 
 - <samp>Untuk lebih jelasnya, silahkan buka project [Object Type Casting](https://github.com/suardi26/Java-OOP/tree/main/Object%20Type%20Casting/src/com/practice) di repositori</samp> 
   
